@@ -4,7 +4,7 @@ This a Dark Souls III map tracker package for PopTracker.
 
 ## Installation
 
-Download the latest release from the releases section.
+Download the latest release from the releases section!
 
 ## More Info
 
