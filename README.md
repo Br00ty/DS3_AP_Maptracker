@@ -1,12 +1,10 @@
 # Template Pack for PopTracker
 
-This a template tracker package for PopTracker.
-
-Includes examples for AP and SNES memory autotracking and beginner-friendly explanations in the pack.
+This a Dark Souls III map tracker package for PopTracker.
 
 ## Installation
 
-Just download the lastest build or source and put in your packs folder (unpacked).
+Download the latest release from the releases section.
 
 ## More Info
 
@@ -15,5 +13,3 @@ Check out PopTrackers Documentation on packs [here](https://github.com/black-sli
 Still having trouble realizing your pack and looking for help or just want more information about everything PopTracker? Check out the ['Unofficial' PopTracker Discord Server](https://discord.com/invite/gwThqMCPgK)!
 
 ## License
-
-Feel free to use this template without credit for all your PopTracker packs!
