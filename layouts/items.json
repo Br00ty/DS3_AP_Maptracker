@@ -1,0 +1,52 @@
+{
+    "shared_item_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0,2",
+                        "h_alignment": "left",
+                        "item_size": 38,
+                        "rows": [
+                            [
+                                "coiledsword",
+                                "banner",
+                                "basin",
+                                "doll",
+                                "dragon"
+                            ],
+                            [
+                                "towerkey",
+                                "jailbreaker",
+                                "jailring",
+                                "oldcell",
+                                "archives"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2,0",
+                        "h_alignment": "center",
+                        "item_size": 45,
+                        "rows": [
+                            [
+                                "abyss",
+                                "yhorm",
+                                "aldrich",
+                                "lothric"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

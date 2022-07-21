@@ -1,0 +1,4336 @@
+[
+    {
+        "name": "Firelink Shrine",
+        "children": [
+            {
+                "name": "FS: Iudex Gundyr",
+                "sections": [
+                    {
+                        "name": "FS: Iudex Gundyr",
+                        "hosted_item": "coiledsword",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "FS",
+                        "x": 623,
+                        "y": 341
+                    }
+                ]
+            },
+            {
+                "name": "FS: Broken Straight Sword",
+                "sections": [
+                    {
+                        "name": "FS: Broken Straight Sword",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "FS",
+                        "x": 484,
+                        "y": 422
+                    }
+                ]
+            },
+            {
+                "name": "FS: East-West Shield",
+                "sections": [
+                    {
+                        "name": "FS: East-West Shield",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "FS",
+                        "x": 204,
+                        "y": 314
+                    }
+                ]
+            },
+            {
+                "name": "FSBT: Covetous Silver Serpent Ring",
+                "access_rules": [
+                    "[towerkey]"
+                ],
+                "sections": [
+                    {
+                        "name": "FSBT: Covetous Silver Serpent Ring",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "FS",
+                        "x": 1190,
+                        "y": 138
+                    }
+                ]
+            },
+            {
+                "name": "FSBT: Fire Keeper Set",
+                "access_rules": [
+                    "towerkey"
+                ],
+                "sections": [
+                    {
+                        "name": "FSBT: Fire Keeper Robe",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "FSBT: Fire Keeper Gloves",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "FSBT: Fire Keeper Skirt",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "FS",
+                        "x": 1336,
+                        "y": 326
+                    }
+                ]
+            },
+            {
+                "name": "FSBT: Estus Ring",
+                "access_rules": [
+                    "towerkey"
+                ],
+                "sections": [
+                    {
+                        "name": "FSBT: Estus Ring",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "FS",
+                        "x": 1296,
+                        "y": 418
+                    }
+                ]
+            },
+            {
+                "name": "FSBT: Fire Keeper Soul",
+                "access_rules": [
+                    "towerkey"
+                ],
+                "sections": [
+                    {
+                        "name": "FSBT: Fire Keeper Soul",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "FS",
+                        "x": 1427,
+                        "y": 90
+                    }
+                ]
+            },
+            {
+                "name": "FS: Soul of Cinder",
+                "access_rules": [
+                    "abyss,yhorm,aldrich,lothric"
+                ],
+                "sections": [
+                    {
+                        "name": "FS: Soul of Cinder",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "FS",
+                        "x": 180,
+                        "y": 165
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "High Wall of Lothric",
+        "children": [
+            {
+                "name": "HWL: Deep Battle Axe",
+                "sections": [
+                    {
+                        "name": "HWL: Deep Battle Axe",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HWL",
+                        "x": 493,
+                        "y": 306
+                    }
+                ]
+            },
+            {
+                "name": "HWL: Club",
+                "sections": [
+                    {
+                        "name": "HWL: Club",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "HWL: Broken Straight Sword",
+                        "item_count": 0
+                    },
+                    {
+                        "name": "HWL: Deserter Trousers",
+                        "item_count": 0
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HWL",
+                        "x": 589,
+                        "y": 347
+                    }
+                ]
+            },
+            {
+                "name": "HWL: Claymore",
+                "sections": [
+                    {
+                        "name": "HWL: Claymore",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HWL",
+                        "x": 653,
+                        "y": 400
+                    }
+                ]
+            },
+            {
+                "name": "HWL: Binoculars",
+                "sections": [
+                    {
+                        "name": "HWL: Binoculars",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HWL",
+                        "x": 800,
+                        "y": 601
+                    }
+                ]
+            },
+            {
+                "name": "HWL: Longbow",
+                "sections": [
+                    {
+                        "name": "HWL: Longbow",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HWL",
+                        "x": 1208,
+                        "y": 391
+                    }
+                ]
+            },
+            {
+                "name": "HWL: Mail Breaker",
+                "sections": [
+                    {
+                        "name": "HWL: Mail Breaker",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HWL",
+                        "x": 931,
+                        "y": 172
+                    }
+                ]
+            },
+            {
+                "name": "HWL: Broadsword",
+                "sections": [
+                    {
+                        "name": "HWL: Broadsword",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HWL",
+                        "x": 425,
+                        "y": 789
+                    }
+                ]
+            },
+            {
+                "name": "HWL: Silver Eagle Kite Shield",
+                "sections": [
+                    {
+                        "name": "HWL: Silver Eagle Kite Shield",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HWL",
+                        "x": 609,
+                        "y": 805
+                    }
+                ]
+            },
+            {
+                "name": "HWL: Astora's Straight Sword",
+                "sections": [
+                    {
+                        "name": "HWL: Astora's Straight Sword",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HWL",
+                        "x": 711,
+                        "y": 755
+                    }
+                ]
+            },
+            {
+                "name": "HWL: Cell Key",
+                "sections": [
+                    {
+                        "name": "HWL: Cell Key",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HWL",
+                        "x": 715,
+                        "y": 874
+                    }
+                ]
+            },
+            {
+                "name": "HWL: Rapier",
+                "sections": [
+                    {
+                        "name": "HWL: Rapier",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HWL",
+                        "x": 657,
+                        "y": 1055
+                    }
+                ]
+            },
+            {
+                "name": "HWL: Lucerne",
+                "sections": [
+                    {
+                        "name": "HWL: Lucerne",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HWL",
+                        "x": 943,
+                        "y": 963
+                    }
+                ]
+            },
+            {
+                "name": "HWL: Banner+Basin+Way of Blue",
+                "sections": [
+                    {
+                        "name": "HWL: Small Lothric Banner",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "HWL: Basin of Vows",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "HWL: Way of Blue Covenant",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HWL",
+                        "x": 897,
+                        "y": 753
+                    }
+                ]
+            },
+            {
+                "name": "HWL: Soul of Boreal Valley Vordt",
+                "sections": [
+                    {
+                        "name": "HWL: Soul of Boreal Valley Vordt",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HWL",
+                        "x": 1028,
+                        "y": 1123
+                    }
+                ]
+            },
+            {
+                "name": "HWL: Soul of the Dancer",
+                "sections": [
+                    {
+                        "name": "HWL: Soul of the Dancer",
+                        "access_rules": [
+                            "basin"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HWL",
+                        "x": 899,
+                        "y": 815
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Undead Settlement",
+        "access_rules": ["banner"],
+        "children": [
+            {
+                "name": "US: Small Leather Shield",
+                "sections": [
+                    {
+                        "name": "US: Small Leather Shield",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "US",
+                        "x": 1084,
+                        "y": 438
+                    }
+                ]
+            },
+            {
+                "name": "US: Whip",
+                "sections": [
+                    {
+                        "name": "US: Whip",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "US",
+                        "x": 451,
+                        "y": 532
+                    }
+                ]
+            },
+            {
+                "name": "US: Reinforced Club",
+                "sections": [
+                    {
+                        "name": "US: Reinforced Club",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "US",
+                        "x": 431,
+                        "y": 244
+                    }
+                ]
+            },
+            {
+                "name": "US: Blue Wooden Shield+Cleric Set",
+                "sections": [
+                    {
+                        "name": "US: Blue Wooden Shield",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "US: Cleric Hat",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "US: Cleric Blue Robe",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "US: Cleric Gloves",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "US: Cleric Trousers",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "US",
+                        "x": 382,
+                        "y": 236
+                    }
+                ]
+            },
+            {
+                "name": "US: Mortician's Ashes",
+                "sections": [
+                    {
+                        "name": "US: Mortician's Ashes",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "US",
+                        "x": 423,
+                        "y": 301
+                    }
+                ]
+            },
+            {
+                "name": "US: Great Scythe",
+                "sections": [
+                    {
+                        "name": "US: Great Scythe",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "US",
+                        "x": 433,
+                        "y": 141
+                    }
+                ]
+            },
+            {
+                "name": "US: Caestus",
+                "sections": [
+                    {
+                        "name": "US: Caestus",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "US",
+                        "x": 601,
+                        "y": 363
+                    }
+                ]
+            },
+            {
+                "name": "US: Plank Shield",
+                "sections": [
+                    {
+                        "name": "US: Plank Shield",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "US",
+                        "x": 1101,
+                        "y": 264
+                    }
+                ]
+            },
+            {
+                "name": "US: Flame Stoneplate Ring",
+                "sections": [
+                    {
+                        "name": "US: Flame Stoneplate Ring",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "US",
+                        "x": 1177,
+                        "y": 113
+                    }
+                ]
+            },
+            {
+                "name": "US: Caduceus Round Shield",
+                "sections": [
+                    {
+                        "name": "US: Caduceus Round Shield",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "US",
+                        "x": 1025,
+                        "y": 315
+                    }
+                ]
+            },
+            {
+                "name": "US: Fire Clutch Ring",
+                "sections": [
+                    {
+                        "name": "US: Fire Clutch Ring",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "US",
+                        "x": 848,
+                        "y": 292
+                    }
+                ]
+            },
+            {
+                "name": "US: Hand Axe",
+                "sections": [
+                    {
+                        "name": "US: Hand Axe",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "US",
+                        "x": 906,
+                        "y": 206
+                    },
+                    {
+                        "map": "US",
+                        "x": 864,
+                        "y": 432
+                    }
+                ]
+            },
+            {
+                "name": "US: Bloodbite Ring",
+                "sections": [
+                    {
+                        "name": "US: Bloodbite Ring",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "US",
+                        "x": 635,
+                        "y": 1303
+                    },
+                    {
+                        "map": "US",
+                        "x": 605,
+                        "y": 441
+                    }
+                ]
+            },
+            {
+                "name": "US: Red Hilted Halberd",
+                "sections": [
+                    {
+                        "name": "US: Red Hilted Halberd",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "US",
+                        "x": 695,
+                        "y": 1232
+                    }
+                ]
+            },
+            {
+                "name": "US: Saint's Talisman",
+                "sections": [
+                    {
+                        "name": "US: Saint's Talisman",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "US",
+                        "x": 862,
+                        "y": 1079
+                    }
+                ]
+            },
+            {
+                "name": "US: Irithyll Straight Sword",
+                "sections": [
+                    {
+                        "name": "US: Irithyll Straight Sword",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "US",
+                        "x": 1122,
+                        "y": 1240
+                    }
+                ]
+            },
+            {
+                "name": "US: Large Club",
+                "sections": [
+                    {
+                        "name": "US: Large Club",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "US",
+                        "x": 847,
+                        "y": 980
+                    }
+                ]
+            },
+            {
+                "name": "US: Northern Set",
+                "sections": [
+                    {
+                        "name": "US: Northern Helm",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "US: Northern Armor",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "US: Northern Gloves",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "US: Northern Trousers",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "US",
+                        "x": 888,
+                        "y": 947
+                    }
+                ]
+            },
+            {
+                "name": "US: Flynn's Ring",
+                "sections": [
+                    {
+                        "name": "US: Flynn's Ring",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "US",
+                        "x": 763,
+                        "y": 787
+                    }
+                ]
+            },
+            {
+                "name": "US: Mirrah Set",
+                "sections": [
+                    {
+                        "name": "US: Mirrah Vest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "US: Mirrah Gloves",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "US: Mirrah Trousers",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "US",
+                        "x": 742,
+                        "y": 982
+                    }
+                ]
+            },
+            {
+                "name": "US: Chloranthy Ring",
+                "sections": [
+                    {
+                        "name": "US: Chloranthy Ring",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "US",
+                        "x": 732,
+                        "y": 1010
+                    }
+                ]
+            },
+            {
+                "name": "US: Loincloth",
+                "sections": [
+                    {
+                        "name": "US: Loincloth",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "US",
+                        "x": 695,
+                        "y": 1282
+                    }
+                ]
+            },
+            {
+                "name": "US: Wargod Wooden Shield",
+                "sections": [
+                    {
+                        "name": "US: Wargod Wooden Shield",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "US",
+                        "x": 497,
+                        "y": 892
+                    }
+                ]
+            },
+            {
+                "name": "US: Loretta's Bone",
+                "sections": [
+                    {
+                        "name": "US: Loretta's Bone",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "US",
+                        "x": 976,
+                        "y": 579
+                    }
+                ]
+            },
+            {
+                "name": "US: Partizan",
+                "sections": [
+                    {
+                        "name": "US: Partizan",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "US",
+                        "x": 895,
+                        "y": 226
+                    },
+                    {
+                        "map": "US",
+                        "x": 797,
+                        "y": 429
+                    }
+                ]
+            },
+            {
+                "name": "US: Soul of the Rotted Greatwood",
+                "sections": [
+                    {
+                        "name": "US: Soul of the Rotted Greatwood",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "US",
+                        "x": 589,
+                        "y": 859
+                    }
+                ]
+            },
+            {
+                "name": "US: Hawk Ring",
+                "sections": [
+                    {
+                        "name": "US: Hawk Ring",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "US",
+                        "x": 1075,
+                        "y": 813
+                    }
+                ]
+            },
+            {
+                "name": "US: Warrior of Sunlight Covenant",
+                "sections": [
+                    {
+                        "name": "US: Warrior of Sunlight Covenant",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "US",
+                        "x": 647,
+                        "y": 650
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Road of Sacrifices",
+        "access_rules": ["banner"],
+        "children": [
+            {
+                "name": "RS: Brigand Twindaggers",
+                "sections": [
+                    {
+                        "name": "RS: Brigand Twindaggers",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "RS",
+                        "x": 443,
+                        "y": 586
+                    }
+                ]
+            },
+            {
+                "name": "RS: Brigand Set",
+                "sections": [
+                    {
+                        "name": "RS: Brigand Hood",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "RS: Brigand Armor",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "RS: Brigand Gauntlets",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "RS: Brigand Trousers",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "RS",
+                        "x": 419,
+                        "y": 554
+                    }
+                ]
+            },
+            {
+                "name": "RS: Butcher Knife",
+                "sections": [
+                    {
+                        "name": "RS: Butcher Knife",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "RS",
+                        "x": 440,
+                        "y": 531
+                    }
+                ]
+            },
+            {
+                "name": "RS: Brigand Axe",
+                "sections": [
+                    {
+                        "name": "RS: Brigand Axe",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "RS",
+                        "x": 413,
+                        "y": 494
+                    }
+                ]
+            },
+            {
+                "name": "RS: Divine Tome+Morne's Ring",
+                "sections": [
+                    {
+                        "name": "RS: Braille Divine Tome of Carim",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "RS: Morne's Ring",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "RS",
+                        "x": 502,
+                        "y": 391
+                    }
+                ]
+            },
+            {
+                "name": "RS: Grass Crest Shield",
+                "sections": [
+                    {
+                        "name": "RS: Grass Crest Shield",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "RS",
+                        "x": 760,
+                        "y": 305
+                    }
+                ]
+            },
+            {
+                "name": "RS: Twin Dragon Greatshield",
+                "sections": [
+                    {
+                        "name": "RS: Twin Dragon Greatshield",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "RS",
+                        "x": 659,
+                        "y": 318
+                    }
+                ]
+            },
+            {
+                "name": "RS: Heretic's Staff",
+                "sections": [
+                    {
+                        "name": "RS: Heretic's Staff",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "RS",
+                        "x": 594,
+                        "y": 209
+                    }
+                ]
+            },
+            {
+                "name": "RS: Sorcerer's Set",
+                "sections": [
+                    {
+                        "name": "RS: Sorcerer Hood",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "RS: Sorcerer Robe",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "RS: Sorcerer Gloves",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "RS: Sorcerer Trousers",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "RS",
+                        "x": 636,
+                        "y": 145
+                    }
+                ]
+            },
+            {
+                "name": "RS: Sage Ring",
+                "sections": [
+                    {
+                        "name": "RS: Sage Ring",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "RS",
+                        "x": 656,
+                        "y": 117
+                    }
+                ]
+            },
+            {
+                "name": "RS: Fallen Knight Set",
+                "sections": [
+                    {
+                        "name": "RS: Fallen Knight Helm",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "RS: Fallen Knight Armor",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "RS: Fallen Knight Gauntlets",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "RS: Fallen Knight Trousers",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "RS",
+                        "x": 776,
+                        "y": 230
+                    }
+                ]
+            },
+            {
+                "name": "RS: Conjurator Set",
+                "sections": [
+                    {
+                        "name": "RS: Conjurator Hood",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "RS: Conjurator Robe",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "RS: Conjurator Manchettes",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "RS: Conjurator Boots",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "RS",
+                        "x": 876,
+                        "y": 245
+                    }
+                ]
+            },
+            {
+                "name": "RS: Great Swamp Pyromancy Tome",
+                "sections": [
+                    {
+                        "name": "RS: Great Swamp Pyromancy Tome",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "RS",
+                        "x": 864,
+                        "y": 265
+                    }
+                ]
+            },
+            {
+                "name": "RS: Great Swamp Ring",
+                "sections": [
+                    {
+                        "name": "RS: Great Swamp Ring",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "RS",
+                        "x": 844,
+                        "y": 238
+                    }
+                ]
+            },
+            {
+                "name": "RS: Great Club+Exile Greatsword",
+                "sections": [
+                    {
+                        "name": "RS: Great Club",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "RS: Exile Greatsword",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "RS",
+                        "x": 827,
+                        "y": 202
+                    }
+                ]
+            },
+            {
+                "name": "RS: Farron Coal",
+                "sections": [
+                    {
+                        "name": "RS: Farron Coal",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "RS",
+                        "x": 877,
+                        "y": 199
+                    }
+                ]
+            },
+            {
+                "name": "RS: Sellsword Twinblades",
+                "sections": [
+                    {
+                        "name": "RS: Sellsword Twinblades",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "RS",
+                        "x": 909,
+                        "y": 213
+                    }
+                ]
+            },
+            {
+                "name": "RS: Sellsword Set",
+                "sections": [
+                    {
+                        "name": "RS: Sellsword Helm",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "RS: Sellsword Armor",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "RS: Sellsword Gauntlet",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "RS: Sellsword Trousers",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "RS",
+                        "x": 935,
+                        "y": 192
+                    }
+                ]
+            },
+            {
+                "name": "RS: Golden Falcon Shield",
+                "sections": [
+                    {
+                        "name": "RS: Golden Falcon Shield",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "RS",
+                        "x": 543,
+                        "y": 330
+                    }
+                ]
+            },
+            {
+                "name": "RS: Herald Set",
+                "sections": [
+                    {
+                        "name": "Herald Helm",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Herald Armor",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Herald Gloves",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Herald Trousers",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "RS",
+                        "x": 156,
+                        "y": 268
+                    }
+                ]
+            },
+            {
+                "name": "RS: Soul of a Crystal Sage",
+                "sections": [
+                    {
+                        "name": "RS: Soul of a Crystal Sage",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "RS",
+                        "x": 276,
+                        "y": 185
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Cathedral of the Deep",
+        "access_rules": ["banner"],
+        "children": [
+            {
+                "name": "CD: Paladin's Ashes",
+                "sections": [
+                    {
+                        "name": "CD: Paladin's Ashes",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CD",
+                        "x": 253,
+                        "y": 675
+                    }
+                ]
+            }, 
+            {
+                "name": "CD: Spider Shield",
+                "sections": [
+                    {
+                        "name": "CD: Spider Shield",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CD",
+                        "x": 164,
+                        "y": 526
+                    }
+                ]
+            }, 
+            {
+                "name": "CD: Crest Shield",
+                "sections": [
+                    {
+                        "name": "CD: Crest Shield",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CD",
+                        "x": 202,
+                        "y": 505
+                    }
+                ]
+            }, 
+            {
+                "name": "CD: Notched Whip",
+                "sections": [
+                    {
+                        "name": "CD: Notched Whip",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CD",
+                        "x": 682,
+                        "y": 637
+                    }
+                ]
+            }, 
+            {
+                "name": "CD: Astora Greatsword",
+                "sections": [
+                    {
+                        "name": "CD: Astora Greatsword",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CD",
+                        "x": 340,
+                        "y": 295
+                    }
+                ]
+            }, 
+            {
+                "name": "CD: Executioner's Greatsword",
+                "sections": [
+                    {
+                        "name": "CD: Executioner's Greatsword",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CD",
+                        "x": 306,
+                        "y": 21
+                    }
+                ]
+            },
+            {
+                "name": "CD: Curse Ward Greatshield",
+                "sections": [
+                    {
+                        "name": "CD: Curse Ward Greatshield",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CD",
+                        "x": 598,
+                        "y": 185
+                    }
+                ]
+            },
+            {
+                "name": "CD: Saint-tree Bellvine",
+                "sections": [
+                    {
+                        "name": "CD: Saint-tree Bellvine",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CD",
+                        "x": 587,
+                        "y": 353
+                    }
+                ]
+            },
+            {
+                "name": "CD: Poisonbite Ring",
+                "sections": [
+                    {
+                        "name": "CD: Poisonbite Ring",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CD",
+                        "x": 818,
+                        "y": 500
+                    }
+                ]
+            },
+            {
+                "name": "CD: Lloyd's Sword Ring",
+                "sections": [
+                    {
+                        "name": "CD: Lloyd's Sword Ring",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CD",
+                        "x": 1672,
+                        "y": 456
+                    }
+                ]
+            },
+            {
+                "name": "CD: Seek Guidance",
+                "sections": [
+                    {
+                        "name": "CD: Seek Guidance",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CD",
+                        "x": 1878,
+                        "y": 296
+                    }
+                ]
+            },
+            {
+                "name": "CD: Aldrich's Sapphire",
+                "sections": [
+                    {
+                        "name": "CD: Aldrich's Sapphire",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CD",
+                        "x": 1674,
+                        "y": 1018
+                    }
+                ]
+            },
+            {
+                "name": "CD: Deep Braille Divine Tome",
+                "sections": [
+                    {
+                        "name": "CD: Deep Braille Divine Tome",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CD",
+                        "x": 1866,
+                        "y": 378
+                    }
+                ]
+            },
+            {
+                "name": "CD: Saint Bident",
+                "sections": [
+                    {
+                        "name": "CD: Saint Bident",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CD",
+                        "x": 1468,
+                        "y": 1371
+                    }
+                ]
+            },
+            {
+                "name": "CD: Maiden Set",
+                "sections": [
+                    {
+                        "name": "CD: Maiden Hood",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "CD: Maiden Robe",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "CD: Maiden Gloves",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "CD: Maiden Skirt",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CD",
+                        "x": 1402,
+                        "y": 1254
+                    }
+                ]
+            },
+            {
+                "name": "CD: Drang Armor",
+                "sections": [
+                    {
+                        "name": "CD: Drang Armor",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CD",
+                        "x": 1622,
+                        "y": 1024
+                    }
+                ]
+            },
+            {
+                "name": "CD: Drang Gauntlets",
+                "sections": [
+                    {
+                        "name": "CD: Drang Gauntlets",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CD",
+                        "x": 1573,
+                        "y": 1026
+                    }
+                ]
+            },
+            {
+                "name": "CD: Drang Shoes",
+                "sections": [
+                    {
+                        "name": "CD: Drang Shoes",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CD",
+                        "x": 1548,
+                        "y": 997
+                    }
+                ]
+            },
+            {
+                "name": "CD: Drang Hammers",
+                "sections": [
+                    {
+                        "name": "CD: Drang Hammers",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CD",
+                        "x": 1562,
+                        "y": 937
+                    }
+                ]
+            },
+            {
+                "name": "CD: Deep Ring",
+                "sections": [
+                    {
+                        "name": "CD: Deep Ring",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CD",
+                        "x": 1134,
+                        "y": 887
+                    },
+                    {
+                        "map": "CD",
+                        "x": 292,
+                        "y": 887
+                    }
+                ]
+            },
+            {
+                "name": "CD: Small Doll+Archdeacon Set",
+                "sections": [
+                    {
+                        "name": "CD: Small Doll",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "CD: Archdeacon White Crown",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "CD: Archdeacon Holy Garb",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "CD: Archdeacon Skirt",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CD",
+                        "x": 1838,
+                        "y": 801
+                    }
+                ]
+            },
+            {
+                "name": "CD: Arbalest",
+                "sections": [
+                    {
+                        "name": "CD: Arbalest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CD",
+                        "x": 319,
+                        "y": 1013
+                    }
+                ]
+            },
+            {
+                "name": "CD: Soul of the Deacons of the Deep",
+                "sections": [
+                    {
+                        "name": "CD: Soul of the Deacons of the Deep",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CD",
+                        "x": 1838,
+                        "y": 832
+                    }
+                ]
+            },
+            {
+                "name": "CD: Rosaria's Fingers Covenant",
+                "sections": [
+                    {
+                        "name": "CD: Rosaria's Fingers Covenant",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CD",
+                        "x": 938,
+                        "y": 1224
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Farron Keep",
+        "access_rules": ["banner"],
+        "children": [
+            {
+                "name": "FK: Ragged Mask",
+                "sections": [
+                    {
+                        "name": "FK: Ragged Mask",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "FK",
+                        "x": 545,
+                        "y": 621
+                    }
+                ]
+            },
+            {
+                "name": "FK: Iron Flesh",
+                "sections": [
+                    {
+                        "name": "FK: Iron Flesh",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "FK",
+                        "x": 674,
+                        "y": 543
+                    }
+                ]
+            },
+            {
+                "name": "FK: Golden Scroll",
+                "sections": [
+                    {
+                        "name": "FK: Golden Scroll",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "FK",
+                        "x": 989,
+                        "y": 567
+                    }
+                ]
+            },
+            {
+                "name": "FK: Antiquated Armor Set",
+                "sections": [
+                    {
+                        "name": "FK: Antiquated Dress",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "FK: Antiquated Gloves",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "FK: Antiquated Skirt",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "FK",
+                        "x": 1015,
+                        "y": 561
+                    }
+                ]
+            },
+            {
+                "name": "FK: Nameless Knight Set",
+                "sections": [
+                    {
+                        "name": "FK: Nameless Knight Helm",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "FK: Nameless Knight Armor",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "FK: Nameless Knight Gauntlets",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "FK: Nameless Knight Leggings",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "FK",
+                        "x": 871,
+                        "y": 449
+                    }
+                ]
+            },
+            {
+                "name": "FK: Sunlight Talisman",
+                "sections": [
+                    {
+                        "name": "FK: Sunlight Talisman",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "FK",
+                        "x": 813,
+                        "y": 278
+                    }
+                ]
+            },
+            {
+                "name": "FK: Wolf's Blood Swordgrass",
+                "sections": [
+                    {
+                        "name": "FK: Wolf's Blood Swordgrass",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "FK",
+                        "x": 873,
+                        "y": 258
+                    }
+                ]
+            },
+            {
+                "name": "FK: Greatsword",
+                "sections": [
+                    {
+                        "name": "FK: Greatsword",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "FK",
+                        "x": 700,
+                        "y": 231
+                    }
+                ]
+            },
+            {
+                "name": "FK: Sage's Coal",
+                "sections": [
+                    {
+                        "name": "FK: Sage's Coal",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "FK",
+                        "x": 404,
+                        "y": 289
+                    }
+                ]
+            },
+            {
+                "name": "FK: Stone Parma",
+                "sections": [
+                    {
+                        "name": "FK: Stone Parma",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "FK",
+                        "x": 337,
+                        "y": 411
+                    }
+                ]
+            },
+            {
+                "name": "FK: Sage's Scroll",
+                "sections": [
+                    {
+                        "name": "FK: Sage's Scroll",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "FK",
+                        "x": 994,
+                        "y": 46
+                    }
+                ]
+            },
+            {
+                "name": "FK: Crown of Dusk",
+                "sections": [
+                    {
+                        "name": "FK: Crown of Dusk",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "FK",
+                        "x": 1169,
+                        "y": 203
+                    }
+                ]
+            },
+            {
+                "name": "FK: Lingering Dragoncrest Ring",
+                "sections": [
+                    {
+                        "name": "FK: Lingering Dragoncrest Ring",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "FK",
+                        "x": 1160,
+                        "y": 113
+                    }
+                ]
+            },
+            {
+                "name": "FK: Pharis's Hat+Black Bow of Pharis",
+                "sections": [
+                    {
+                        "name": "FK: Pharis's Hat",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "FK: Black Bow of Pharis",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "FK",
+                        "x": 841,
+                        "y": 57
+                    }
+                ]
+            },
+            {
+                "name": "FK: Watchdogs of Farron Covenant",
+                "sections": [
+                    {
+                        "name": "FK: Watchdogs of Farron Covenant",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "FK",
+                        "x": 112,
+                        "y": 1094
+                    }
+                ]
+            },
+            {
+                "name": "FK: Dreamchaser's Ashes",
+                "sections": [
+                    {
+                        "name": "FK: Dreamchaser's Ashes",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "FK",
+                        "x": 159,
+                        "y": 1061
+                    }
+                ]
+            },
+            {
+                "name": "FK: Great Axe",
+                "sections": [
+                    {
+                        "name": "FK: Great Axe",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "FK",
+                        "x": 287,
+                        "y": 715
+                    }
+                ]
+            },
+            {
+                "name": "FK: Dragon Crest Shield",
+                "sections": [
+                    {
+                        "name": "FK: Dragon Crest Shield",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "FK",
+                        "x": 300,
+                        "y": 1113
+                    }
+                ]
+            },
+            {
+                "name": "FK: Lightning Spear",
+                "sections": [
+                    {
+                        "name": "FK: Lightning Spear",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "FK",
+                        "x": 285,
+                        "y": 1148
+                    }
+                ]
+            },
+            {
+                "name": "FK: Atonement",
+                "sections": [
+                    {
+                        "name": "FK: Atonement",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "FK",
+                        "x": 663,
+                        "y": 939
+                    }
+                ]
+            },
+            {
+                "name": "FK: Great Magic Weapon",
+                "sections": [
+                    {
+                        "name": "FK: Great Magic Weapon",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "FK",
+                        "x": 548,
+                        "y": 1005
+                    }
+                ]
+            },
+            {
+                "name": "FK: Cinders+Soul of Abyss Watchers",
+                "sections": [
+                    {
+                        "name": "FK: Cinders of a Lord - Abyss Watchers",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "FK: Soul of the Blood of the Wolf",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "FK",
+                        "x": 1121,
+                        "y": 821
+                    }
+                ]
+            },
+            {
+                "name": "FK: Soul of a Stray Demon",
+                "sections": [
+                    {
+                        "name": "FK: Soul of a Stray Demon",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "FK",
+                        "x": 299,
+                        "y": 753
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Catacombs of Carthus",
+        "access_rules": ["banner"],
+        "children": [
+            {
+                "name": "CC: Carthus Pyromancy Tome",
+                "sections": [
+                    {
+                        "name": "CC: Carthus Pyromancy Tome",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CC",
+                        "x": 95,
+                        "y": 427
+                    }
+                ]
+            },
+            {
+                "name": "CC: Carthus Milkring",
+                "sections": [
+                    {
+                        "name": "CC: Carthus Milkring",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CC",
+                        "x": 242,
+                        "y": 595
+                    }
+                ]
+            },
+            {
+                "name": "CC: Grave Warden's Ashes",
+                "sections": [
+                    {
+                        "name": "CC: Grave Warden's Ashes",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CC",
+                        "x": 349,
+                        "y": 544
+                    }
+                ]
+            },
+            {
+                "name": "CC: Carthus Bloodring",
+                "sections": [
+                    {
+                        "name": "CC: Carthus Bloodring",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CC",
+                        "x": 422,
+                        "y": 473
+                    }
+                ]
+            },
+            {
+                "name": "CC: Grave Warden Pyromancy Tome",
+                "sections": [
+                    {
+                        "name": "CC: Grave Warden Pyromancy Tome",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CC",
+                        "x": 849,
+                        "y": 110
+                    }
+                ]
+            },
+            {
+                "name": "CC: Old Sage's Blindfold+Witch's Ring",
+                "sections": [
+                    {
+                        "name": "CC: Old Sage's Blindfold",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "CC: Witch's Ring",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CC",
+                        "x": 860,
+                        "y": 543
+                    }
+                ]
+            },
+            {
+                "name": "CC: Black Blade",
+                "sections": [
+                    {
+                        "name": "CC: Black Blade",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CC",
+                        "x": 693,
+                        "y": 524
+                    }
+                ]
+            },
+            {
+                "name": "CC: Soul of High Lord Wolnir",
+                "sections": [
+                    {
+                        "name": "CC: Soul of High Lord Wolnir",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CC",
+                        "x": 836,
+                        "y": 144
+                    }
+                ]
+            },
+            {
+                "name": "CC: Soul of a Demon",
+                "sections": [
+                    {
+                        "name": "CC: Soul of a Demon",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CC",
+                        "x": 696,
+                        "y": 555
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Smouldering Lake",
+        "access_rules": ["banner"],
+        "children": [
+            {
+                "name": "SL: Shield of Want",
+                "sections": [
+                    {
+                        "name": "SL: Shield of Want",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "SL",
+                        "x": 372,
+                        "y": 279
+                    }
+                ]
+            },
+            {
+                "name": "SL: Speckled Stoneplate Ring",
+                "sections": [
+                    {
+                        "name": "SL: Speckled Stoneplate Ring",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "SL",
+                        "x": 440,
+                        "y": 251
+                    }
+                ]
+            },
+            {
+                "name": "SL: Dragonrider Bow",
+                "sections": [
+                    {
+                        "name": "SL: Dragonrider Bow",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "SL",
+                        "x": 800,
+                        "y": 83
+                    }
+                ]
+            },
+            {
+                "name": "SL: Lightning Stake",
+                "sections": [
+                    {
+                        "name": "SL: Lightning Stake",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "SL",
+                        "x": 314,
+                        "y": 345
+                    }
+                ]
+            },
+            {
+                "name": "SL: Izalith Pyromancy Tome",
+                "sections": [
+                    {
+                        "name": "SL: Izalith Pyromancy Tome",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "SL",
+                        "x": 642,
+                        "y": 708
+                    }
+                ]
+            },
+            {
+                "name": "SL: Black Knight Sword",
+                "sections": [
+                    {
+                        "name": "SL: Black Knight Sword",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "SL",
+                        "x": 258,
+                        "y": 1380
+                    }
+                ]
+            },
+            {
+                "name": "SL: Quelana Pyromancy Tome",
+                "sections": [
+                    {
+                        "name": "SL: Quelana Pyromancy Tome",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "SL",
+                        "x": 110,
+                        "y": 1080
+                    }
+                ]
+            },
+            {
+                "name": "SL: Toxic Mist",
+                "sections": [
+                    {
+                        "name": "SL: Toxic Mist",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "SL",
+                        "x": 138,
+                        "y": 1314
+                    }
+                ]
+            },
+            {
+                "name": "SL: White Hair Talisman",
+                "sections": [
+                    {
+                        "name": "SL: White Hair Talisman",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "SL",
+                        "x": 140,
+                        "y": 1389
+                    }
+                ]
+            },
+            {
+                "name": "SL: Izalith Staff",
+                "sections": [
+                    {
+                        "name": "SL: Izalith Staff",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "SL",
+                        "x": 741,
+                        "y": 1166
+                    }
+                ]
+            },
+            {
+                "name": "SL: Sacred Flame",
+                "sections": [
+                    {
+                        "name": "SL: Sacred Flame",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "SL",
+                        "x": 888,
+                        "y": 999
+                    }
+                ]
+            },
+            {
+                "name": "SL: Fume Ultra Greatsword+Black Iron Greatshield",
+                "sections": [
+                    {
+                        "name": "SL: Fume Ultra Greatsword",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "SL: Black Iron Greatshield",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "SL",
+                        "x": 818,
+                        "y": 1013
+                    }
+                ]
+            },
+            {
+                "name": "SL: Soul of the Old Demon King",
+                "sections": [
+                    {
+                        "name": "SL: Soul of the Old Demon King",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "SL",
+                        "x": 131,
+                        "y": 327
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Irithyll of the Boreal Valley",
+        "access_rules": ["banner"],
+        "children": [
+            {
+                "name": "IBV: Pontiff's Right Eye",
+                "sections": [
+                    {
+                        "name": "IBV: Pontiff's Right Eye",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "IBV",
+                        "x": 808,
+                        "y": 342
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Irithyll of the Boreal Valley",
+        "access_rules": ["banner,doll"],
+        "children": [
+            {
+                "name": "IBV: Dorhys' Gnawing",
+                "sections": [
+                    {
+                        "name": "IBV: Dorhys' Gnawing",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "IBV",
+                        "x": 484,
+                        "y": 498
+                    }
+                ]
+            },
+            {
+                "name": "IBV: Witchtree Branch",
+                "sections": [
+                    {
+                        "name": "IBV: Witchtree Branch",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "IBV",
+                        "x": 504,
+                        "y": 510
+                    }
+                ]
+            },
+            {
+                "name": "IBV: Magic Clutch Ring",
+                "sections": [
+                    {
+                        "name": "IBV: Magic Clutch Ring",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "IBV",
+                        "x": 507,
+                        "y": 151
+                    },
+                    {
+                        "map": "IBV",
+                        "x": 480,
+                        "y": 1212
+                    }
+                ]
+            },
+            {
+                "name": "IBV: Ring of the Sun's First Born",
+                "sections": [
+                    {
+                        "name": "IBV: Ring of the Sun's First Born",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "IBV",
+                        "x": 465,
+                        "y": 103
+                    },
+                    {
+                        "map": "IBV",
+                        "x": 439,
+                        "y": 1167
+                    }
+                ]
+            },
+            {
+                "name": "IBV: Roster of Knights",
+                "sections": [
+                    {
+                        "name": "IBV: Roster of Knights",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "IBV",
+                        "x": 205,
+                        "y": 405
+                    }
+                ]
+            },
+            {
+                "name": "IBV: Yorshka's Spear",
+                "sections": [
+                    {
+                        "name": "IBV: Yorshka's Spear",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "IBV",
+                        "x": 1170,
+                        "y": 414
+                    }
+                ]
+            },
+            {
+                "name": "IBV: Great Heal",
+                "sections": [
+                    {
+                        "name": "IBV: Great Heal",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "IBV",
+                        "x": 1567,
+                        "y": 540
+                    }
+                ]
+            },
+            {
+                "name": "IBV: Smough's Great Hammer+Leo Ring",
+                "sections": [
+                    {
+                        "name": "IBV: Smough's Great Hammer",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "IBV: Leo Ring",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "IBV",
+                        "x": 1012,
+                        "y": 845
+                    }
+                ]
+            },
+            {
+                "name": "IBV: Greirat's Ashes",
+                "access_rules": ["cellkey"],
+                "sections": [
+                    {
+                        "name": "IBV: Greirat's Ashes",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "IBV",
+                        "x": 727,
+                        "y": 1275
+                    }
+                ]
+            },
+            {
+                "name": "IBV: Excrement-covered Ashes",
+                "sections": [
+                    {
+                        "name": "IBV: Excrement-covered Ashes",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "IBV",
+                        "x": 752,
+                        "y": 1255
+                    }
+                ]
+            },
+            {
+                "name": "IBV: Dark Stoneplate Ring",
+                "sections": [
+                    {
+                        "name": "IBV: Dark Stoneplate Ring",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "IBV",
+                        "x": 1490,
+                        "y": 1104
+                    }
+                ]
+            },
+            {
+                "name": "IBV: Easterner's Ashes",
+                "sections": [
+                    {
+                        "name": "IBV: Easterner's Ashes",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "IBV",
+                        "x": 1203,
+                        "y": 1235
+                    }
+                ]
+            },
+            {
+                "name": "IBV: Painting Guardian's Curved Sword",
+                "sections": [
+                    {
+                        "name": "IBV: Painting Guardian's Curved Sword",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "IBV",
+                        "x": 1943,
+                        "y": 955
+                    }
+                ]
+            },
+            {
+                "name": "IBV: Painting Guardian Set",
+                "sections": [
+                    {
+                        "name": "IBV: Painting Guardian Hood",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "IBV: Painting Guardian Gown",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "IBV: Painting Guardian Gloves",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "IBV: Painting Guardian Waistcloth",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "IBV",
+                        "x": 1935,
+                        "y": 1047
+                    }
+                ]
+            },
+            {
+                "name": "IBV: Dragonslayer Greatbow",
+                "sections": [
+                    {
+                        "name": "IBV: Dragonslayer Greatbow",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "IBV",
+                        "x": 1352,
+                        "y": 1255
+                    }
+                ]
+            },
+            {
+                "name": "IBV: Reversal Ring",
+                "sections": [
+                    {
+                        "name": "IBV: Reversal Ring",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "IBV",
+                        "x": 1539,
+                        "y": 1275
+                    }
+                ]
+            },
+            {
+                "name": "IBV: Brass Set",
+                "sections": [
+                    {
+                        "name": "IBV: Brass Helm",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "IBV: Brass Armor",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "IBV: Brass Gauntlets",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "IBV: Brass Leggings",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "IBV",
+                        "x": 1634,
+                        "y": 1312
+                    }
+                ]
+            },
+            {
+                "name": "IBV: Ring of Favor",
+                "sections": [
+                    {
+                        "name": "IBV: Ring of Favor",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "IBV",
+                        "x": 1328,
+                        "y": 850
+                    }
+                ]
+            },
+            {
+                "name": "IBV: Golden Ritual Spear",
+                "sections": [
+                    {
+                        "name": "IBV: Golden Ritual Spear",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "IBV",
+                        "x": 1782,
+                        "y": 1061
+                    }
+                ]
+            },
+            {
+                "name": "IBV: Soul of Pontiff Sulyvahn",
+                "sections": [
+                    {
+                        "name": "IBV: Soul of Pontiff Sulyvahn",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "IBV",
+                        "x": 440,
+                        "y": 880
+                    }
+                ]
+            },
+            {
+                "name": "IBV: Aldrich Faithful Covenant",
+                "sections": [
+                    {
+                        "name": "IBV: Aldrich Faithful Covenant",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "IBV",
+                        "x": 1366,
+                        "y": 788
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Anor Londo",
+        "access_rules": ["banner,doll"],
+        "children": [
+            {
+                "name": "AL: Giant's Coal",
+                "sections": [
+                    {
+                        "name": "AL: Giant's Coal",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AL",
+                        "x": 617,
+                        "y": 359
+                    }
+                ]
+            },
+            {
+                "name": "AL: Sun Princess Ring",
+                "sections": [
+                    {
+                        "name": "AL: Sun Princess Ring",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AL",
+                        "x": 1130,
+                        "y": 176
+                    }
+                ]
+            },
+            {
+                "name": "AL: Aldrich's Ruby",
+                "sections": [
+                    {
+                        "name": "AL: Aldrich's Ruby",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AL",
+                        "x": 609,
+                        "y": 491
+                    }
+                ]
+            },
+            {
+                "name": "AL: Cinders+Soul of Aldrich",
+                "sections": [
+                    {
+                        "name": "AL: Cinders of a Lord - Aldrich",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "AL: Soul of Aldrich",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AL",
+                        "x": 930,
+                        "y": 491
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Irithyll Dungeon",
+        "access_rules": ["banner,doll"],
+        "children": [
+            {
+                "name": "ID: Bellowing Dragoncrest Ring",
+                "access_rules": ["jailbreaker"],
+                "sections": [
+                    {
+                        "name": "ID: Bellowing Dragoncrest Ring",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ID",
+                        "x": 666,
+                        "y": 518
+                    }
+                ]
+            },
+            {
+                "name": "ID: Jailbreaker's Key",
+                "sections": [
+                    {
+                        "name": "ID: Jailbreaker's Key",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ID",
+                        "x": 808,
+                        "y": 176
+                    }
+                ]
+            },
+            {
+                "name": "ID: Prisoner Chief's Ashes",
+                "access_rules": ["jailring"],
+                "sections": [
+                    {
+                        "name": "ID: Prisoner Chief's Ashes",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ID",
+                        "x": 996,
+                        "y": 374
+                    }
+                ]
+            },
+            {
+                "name": "ID: Old Sorcerer Set",
+                "sections": [
+                    {
+                        "name": "ID: Old Sorcerer Hat",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "ID: Old Sorcerer Coat",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "ID: Old Sorcerer Gauntlets",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "ID: Old Sorcerer Boots",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ID",
+                        "x": 992,
+                        "y": 242
+                    }
+                ]
+            },
+            {
+                "name": "ID: Great Magic Shield",
+                "sections": [
+                    {
+                        "name": "ID: Great Magic Shield",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ID",
+                        "x": 998,
+                        "y": 158
+                    }
+                ]
+            },
+            {
+                "name": "ID: Dragon Torso Stone",
+                "sections": [
+                    {
+                        "name": "ID: Dragon Torso Stone",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ID",
+                        "x": 790,
+                        "y": 784
+                    }
+                ]
+            },
+            {
+                "name": "ID: Lightning Blade",
+                "sections": [
+                    {
+                        "name": "ID: Lightning Blade",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ID",
+                        "x": 824,
+                        "y": 718
+                    }
+                ]
+            },
+            {
+                "name": "ID: Profaned Coal",
+                "sections": [
+                    {
+                        "name": "ID: Profaned Coal",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ID",
+                        "x": 874,
+                        "y": 956
+                    }
+                ]
+            },
+            {
+                "name": "ID: Xanthous Ashes",
+                "sections": [
+                    {
+                        "name": "ID: Xanthous Ashes",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ID",
+                        "x": 856,
+                        "y": 1078
+                    }
+                ]
+            },
+            {
+                "name": "ID: Old Cell Key",
+                "sections": [
+                    {
+                        "name": "ID: Old Cell Key",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ID",
+                        "x": 549,
+                        "y": 724
+                    }
+                ]
+            },
+            {
+                "name": "ID: Pickaxe",
+                "sections": [
+                    {
+                        "name": "ID: Pickaxe",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ID",
+                        "x": 277,
+                        "y": 949
+                    }
+                ]
+            },
+            {
+                "name": "ID: Profaned Flame",
+                "sections": [
+                    {
+                        "name": "ID: Profaned Flame",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ID",
+                        "x": 214,
+                        "y": 1218
+                    }
+                ]
+            },
+            {
+                "name": "ID: Covetous Gold Serpent Ring",
+                "access_rules": ["oldcell"],
+                "sections": [
+                    {
+                        "name": "ID: Covetous Gold Serpent Ring",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ID",
+                        "x": 175,
+                        "y": 1299
+                    },
+                    {
+                        "map": "PC",
+                        "x": 455,
+                        "y": 142
+                    }
+                ]
+            },
+            {
+                "name": "ID: Jailer's Key Ring",
+                "sections": [
+                    {
+                        "name": "ID: Jailer's Key Ring",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ID",
+                        "x": 438,
+                        "y": 1192
+                    },
+                    {
+                        "map": "PC",
+                        "x": 457,
+                        "y": 47
+                    }
+                ]
+            },
+            {
+                "name": "ID: Dusk Crown Ring",
+                "sections": [
+                    {
+                        "name": "ID: Dusk Crown Ring",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ID",
+                        "x": 886,
+                        "y": 1057
+                    }
+                ]
+            },
+            {
+                "name": "ID: Dark Clutch Ring",
+                "sections": [
+                    {
+                        "name": "ID: Dark Clutch Ring",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ID",
+                        "x": 805,
+                        "y": 1024
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Profaned Capital",
+        "access_rules": ["banner,doll"],
+        "children": [
+            {
+                "name": "PC: Cursebite Ring",
+                "sections": [
+                    {
+                        "name": "PC: Cursebite Ring",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "PC",
+                        "x": 199,
+                        "y": 672
+                    }
+                ]
+            },
+            {
+                "name": "PC: Court Sorcerer Set+Wrath of the Gods",
+                "sections": [
+                    {
+                        "name": "PC: Court Sorcerer Hood",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "PC: Court Sorcerer Robe",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "PC: Court Sorcerer Gloves",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "PC: Court Sorcerer Trousers",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "PC: Wrath of the Gods",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "PC",
+                        "x": 223,
+                        "y": 273
+                    }
+                ]
+            },
+            {
+                "name": "PC: Logan's Scroll",
+                "sections": [
+                    {
+                        "name": "PC: Logan's Scroll",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "PC",
+                        "x": 411,
+                        "y": 270
+                    }
+                ]
+            },
+            {
+                "name": "PC: Eleonora",
+                "sections": [
+                    {
+                        "name": "PC: Eleonora",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "PC",
+                        "x": 160,
+                        "y": 405
+                    }
+                ]
+            },
+            {
+                "name": "PC: Court Sorcerer's Staff",
+                "sections": [
+                    {
+                        "name": "PC: Court Sorcerer's Staff",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "PC",
+                        "x": 253,
+                        "y": 256
+                    }
+                ]
+            },
+            {
+                "name": "PC: Greatshield of Glory",
+                "sections": [
+                    {
+                        "name": "PC: Greatshield of Glory",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "PC",
+                        "x": 990,
+                        "y": 414
+                    }
+                ]
+            },
+            {
+                "name": "PC: Storm Ruler",
+                "sections": [
+                    {
+                        "name": "PC: Storm Ruler",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "PC",
+                        "x": 1153,
+                        "y": 646
+                    }
+                ]
+            },
+            {
+                "name": "PC: Cinders+Soul of Yhorm the Giant",
+                "sections": [
+                    {
+                        "name": "Cinders of a Lord - Yhorm the Giant",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Soul of Yhorm the Giant",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "PC",
+                        "x": 1158,
+                        "y": 555
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Consumed King's Garden",
+        "access_rules": ["basin"],
+        "children": [
+            {
+                "name": "CKG: Dragonscale Ring",
+                "sections": [
+                    {
+                        "name": "CKG: Dragonscale Ring",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CKG",
+                        "x": 565,
+                        "y": 217
+                    }
+                ]
+            },
+            {
+                "name": "CKG: Shadow Set",
+                "sections": [
+                    {
+                        "name": "CKG: Shadow Mask",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "CKG: Shadow Garb",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "CKG: Shadow Gauntlets",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "CKG: Shadow Leggings",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CKG",
+                        "x": 308,
+                        "y": 616
+                    }
+                ]
+            },
+            {
+                "name": "CKG: Claw",
+                "sections": [
+                    {
+                        "name": "CKG: Claw",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CKG",
+                        "x": 305,
+                        "y": 647
+                    }
+                ]
+            },
+            {
+                "name": "CKG: Path of the Dragon Gesture",
+                "sections": [
+                    {
+                        "name": "CKG: Path of the Dragon Gesture",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CKG",
+                        "x": 137,
+                        "y": 90
+                    }
+                ]
+            },
+            {
+                "name": "CKG: Soul of Consumed Oceiros",
+                "sections": [
+                    {
+                        "name": "CKG: Soul of Consumed Oceiros",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CKG",
+                        "x": 150,
+                        "y": 350
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Untended Graves",
+        "access_rules": ["basin"],
+        "children": [
+            {
+                "name": "UG: Ashen Estus Ring",
+                "sections": [
+                    {
+                        "name": "UG: Ashen Estus Ring",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "UG",
+                        "x": 613,
+                        "y": 347
+                    }
+                ]
+            },
+            {
+                "name": "UG: Black Knight Glaive",
+                "sections": [
+                    {
+                        "name": "UG: Black Knight Glaive",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "UG",
+                        "x": 781,
+                        "y": 192
+                    }
+                ]
+            },
+            {
+                "name": "UG: Hornet Ring",
+                "sections": [
+                    {
+                        "name": "UG: Hornet Ring",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "UG",
+                        "x": 531,
+                        "y": 427
+                    }
+                ]
+            },
+            {
+                "name": "UG: Chaos Blade",
+                "sections": [
+                    {
+                        "name": "UG: Chaos Blade",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "UG",
+                        "x": 340,
+                        "y": 317
+                    }
+                ]
+            },
+            {
+                "name": "UG: Blacksmith Hammer",
+                "sections": [
+                    {
+                        "name": "UG: Blacksmith Hammer",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "UG",
+                        "x": 130,
+                        "y": 646
+                    }
+                ]
+            },
+            {
+                "name": "UG: Eyes of a Fire Keeper",
+                "sections": [
+                    {
+                        "name": "UG: Eyes of a Fire Keeper",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "UG",
+                        "x": 50,
+                        "y": 503
+                    }
+                ]
+            },
+            {
+                "name": "UG: Coiled Sword Fragment",
+                "sections": [
+                    {
+                        "name": "UG: Coiled Sword Fragment",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "UG",
+                        "x": 132,
+                        "y": 371
+                    }
+                ]
+            },
+            {
+                "name": "UG: Soul of Champion Gundyr",
+                "sections": [
+                    {
+                        "name": "UG: Soul of Champion Gundyr",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "UG",
+                        "x": 734,
+                        "y": 189
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Lothric Castle",
+        "access_rules": ["basin"],
+        "children": [
+            {
+                "name": "LC: Prayer Set",
+                "sections": [
+                    {
+                        "name": "LC: Hood of Prayer",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "LC: Robe of Prayer",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "LC: Skirt of Prayer",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "LC",
+                        "x": 700,
+                        "y": 480
+                    }
+                ]
+            },
+            {
+                "name": "LC: Sacred Bloom Shield",
+                "sections": [
+                    {
+                        "name": "LC: Sacred Bloom Shield",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "LC",
+                        "x": 950,
+                        "y": 318
+                    }
+                ]
+            },
+            {
+                "name": "LC: Winged Knight Set",
+                "sections": [
+                    {
+                        "name": "LC: Winged Knight Helm",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "LC: Winged Knight Armor",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "LC: Winged Knight Gauntlets",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "LC: Winged Knight Leggings",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "LC",
+                        "x": 956,
+                        "y": 372
+                    }
+                ]
+            },
+            {
+                "name": "LC: Greatlance",
+                "sections": [
+                    {
+                        "name": "LC: Greatlance",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "LC",
+                        "x": 1300,
+                        "y": 566
+                    }
+                ]
+            },
+            {
+                "name": "LC: Sniper Crossbow",
+                "sections": [
+                    {
+                        "name": "LC: Sniper Crossbow",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "LC",
+                        "x": 1444,
+                        "y": 656
+                    }
+                ]
+            },
+            {
+                "name": "LC: Spirit Tree Crest Shield",
+                "sections": [
+                    {
+                        "name": "LC: Spirit Tree Crest Shield",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "LC",
+                        "x": 1118,
+                        "y": 382
+                    }
+                ]
+            },
+            {
+                "name": "LC: Red Tearstone Ring",
+                "sections": [
+                    {
+                        "name": "LC: Red Tearstone Ring",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "LC",
+                        "x": 712,
+                        "y": 782
+                    }
+                ]
+            },
+            {
+                "name": "LC: Caitha's Chime",
+                "sections": [
+                    {
+                        "name": "LC: Caitha's Chime",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "LC",
+                        "x": 822,
+                        "y": 868
+                    }
+                ]
+            },
+            {
+                "name": "LC: Braille Divine Tome of Lothric",
+                "sections": [
+                    {
+                        "name": "LC: Braille Divine Tome of Lothric",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "LC",
+                        "x": 1628,
+                        "y": 886
+                    }
+                ]
+            },
+            {
+                "name": "LC: Knight's Ring",
+                "sections": [
+                    {
+                        "name": "LC: Knight's Ring",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "LC",
+                        "x": 1342,
+                        "y": 1048
+                    }
+                ]
+            },
+            {
+                "name": "LC: Sunlight Straight Sword",
+                "sections": [
+                    {
+                        "name": "LC: Sunlight Straight Sword",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "LC",
+                        "x": 1534,
+                        "y": 888
+                    }
+                ]
+            },
+            {
+                "name": "LC: Grand Archives Key",
+                "sections": [
+                    {
+                        "name": "LC: Grand Archives Key",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "LC",
+                        "x": 210,
+                        "y": 968
+                    },
+                    {
+                        "map": "GA",
+                        "x": 106,
+                        "y": 561
+                    }
+                ]
+            },
+            {
+                "name": "LC: Soul of Dragonslayer Armour",
+                "sections": [
+                    {
+                        "name": "LC: Soul of Dragonslayer Armour",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "LC",
+                        "x": 608,
+                        "y": 968
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Grand Archives",
+        "access_rules": ["basin,archives"],
+        "children": [
+            {
+                "name": "GA: Avelyn",
+                "sections": [
+                    {
+                        "name": "GA: Avelyn",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "GA",
+                        "x": 134,
+                        "y": 318
+                    }
+                ]
+            },
+            {
+                "name": "GA: Witch's Locks+Power Within",
+                "sections": [
+                    {
+                        "name": "GA: Witch's Locks",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "GA: Power Within",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "GA",
+                        "x": 224,
+                        "y": 56
+                    }
+                ]
+            },
+            {
+                "name": "GA: Scholar Ring",
+                "sections": [
+                    {
+                        "name": "GA: Scholar Ring",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "GA",
+                        "x": 362,
+                        "y": 258
+                    }
+                ]
+            },
+            {
+                "name": "GA: Soul Stream",
+                "sections": [
+                    {
+                        "name": "GA: Soul Stream",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "GA",
+                        "x": 796,
+                        "y": 330
+                    }
+                ]
+            },
+            {
+                "name": "GA: Fleshbite Ring",
+                "sections": [
+                    {
+                        "name": "GA: Fleshbite Ring",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "GA",
+                        "x": 808,
+                        "y": 78
+                    }
+                ]
+            },
+            {
+                "name": "GA: Crystal Chime",
+                "sections": [
+                    {
+                        "name": "GA: Crystal Chime",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "GA",
+                        "x": 200,
+                        "y": 270
+                    }
+                ]
+            },
+            {
+                "name": "GA: Golden Wing Crest Shield+Onikiri and Ubadachi",
+                "sections": [
+                    {
+                        "name": "GA: Golden Wing Crest Shield",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "GA: Onikiri and Ubadachi",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "GA",
+                        "x": 708,
+                        "y": 1028
+                    }
+                ]
+            },
+            {
+                "name": "GA: Hunter's Ring",
+                "sections": [
+                    {
+                        "name": "GA: Hunter's Ring",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "GA",
+                        "x": 1062,
+                        "y": 70
+                    }
+                ]
+            },
+            {
+                "name": "GA: Divine Pillars of Light",
+                "sections": [
+                    {
+                        "name": "GA: Divine Pillars of Light",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "GA",
+                        "x": 1574,
+                        "y": 484
+                    }
+                ]
+            },
+            {
+                "name": "GA: Cinders+Soul of Lothric Prince",
+                "sections": [
+                    {
+                        "name": "GA: Cinders of a Lord - Lothric Prince",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "GA: Soul of the Twin Princes",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "GA",
+                        "x": 1108,
+                        "y": 1168
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Archdragon Peak",
+        "access_rules": ["banner,doll,dragon"],
+        "children": [
+            {
+                "name": "AP: Lightning Clutch Ring",
+                "sections": [
+                    {
+                        "name": "AP: Lightning Clutch Ring",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AP",
+                        "x": 278,
+                        "y": 407
+                    }
+                ]
+            },
+            {
+                "name": "AP: Ancient Dragon Greatshield",
+                "sections": [
+                    {
+                        "name": "AP: Ancient Dragon Greatshield",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AP",
+                        "x": 302,
+                        "y": 578
+                    }
+                ]
+            },
+            {
+                "name": "AP: Ring of Steel Protection",
+                "sections": [
+                    {
+                        "name": "AP: Ring of Steel Protection",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AP",
+                        "x": 429,
+                        "y": 95
+                    }
+                ]
+            },
+            {
+                "name": "AP: Calamity Ring",
+                "sections": [
+                    {
+                        "name": "AP: Calamity Ring",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AP",
+                        "x": 681,
+                        "y": 323
+                    }
+                ]
+            },
+            {
+                "name": "AP: Drakeblood Greatsword",
+                "sections": [
+                    {
+                        "name": "AP: Drakeblood Greatsword",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AP",
+                        "x": 651,
+                        "y": 342
+                    }
+                ]
+            },
+            {
+                "name": "AP: Dragonslayer Spear",
+                "sections": [
+                    {
+                        "name": "AP: Dragonslayer Spear",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AP",
+                        "x": 678,
+                        "y": 63
+                    }
+                ]
+            },
+            {
+                "name": "AP: Thunder Stoneplate Ring",
+                "sections": [
+                    {
+                        "name": "AP: Thunder Stoneplate Ring",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AP",
+                        "x": 1529,
+                        "y": 504
+                    }
+                ]
+            },
+            {
+                "name": "AP: Great Magic Barrier",
+                "sections": [
+                    {
+                        "name": "AP: Great Magic Barrier",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AP",
+                        "x": 1548,
+                        "y": 144
+                    }
+                ]
+            },
+            {
+                "name": "AP: Dragon Chaser's Ashes",
+                "sections": [
+                    {
+                        "name": "AP: Dragon Chaser's Ashes",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AP",
+                        "x": 966,
+                        "y": 282
+                    }
+                ]
+            },
+            {
+                "name": "AP: Twinkling Dragon Torso Stone",
+                "sections": [
+                    {
+                        "name": "AP: Twinkling Dragon Torso Stone",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AP",
+                        "x": 918,
+                        "y": 87
+                    }
+                ]
+            },
+            {
+                "name": "AP: Dragonslayer Set",
+                "sections": [
+                    {
+                        "name": "AP: Dragonslayer Helm",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "AP: Dragonslayer Armor",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "AP: Dragonslayer Gauntlets",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "AP: Dragonslayer Leggings",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AP",
+                        "x": 1205,
+                        "y": 575
+                    }
+                ]
+            },
+            {
+                "name": "AP: Ricard's Rapier",
+                "sections": [
+                    {
+                        "name": "AP: Ricard's Rapier",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AP",
+                        "x": 1497,
+                        "y": 252
+                    }
+                ]
+            },
+            {
+                "name": "AP: Soul of the Nameless King",
+                "sections": [
+                    {
+                        "name": "AP: Soul of the Nameless King",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AP",
+                        "x": 1385,
+                        "y": 350
+                    }
+                ]
+            }
+        ]
+    }
+]
