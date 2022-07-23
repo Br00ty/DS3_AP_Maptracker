@@ -1322,19 +1322,19 @@
                 "name": "RS: Herald Set",
                 "sections": [
                     {
-                        "name": "Herald Helm",
+                        "name": "RS: Herald Helm",
                         "item_count": 1
                     },
                     {
-                        "name": "Herald Armor",
+                        "name": "RS: Herald Armor",
                         "item_count": 1
                     },
                     {
-                        "name": "Herald Gloves",
+                        "name": "RS: Herald Gloves",
                         "item_count": 1
                     },
                     {
-                        "name": "Herald Trousers",
+                        "name": "RS: Herald Trousers",
                         "item_count": 1
                     }
                 ],
@@ -3838,7 +3838,7 @@
                 "map_locations": [
                     {
                         "map": "LC",
-                        "x": 822,
+                        "x": 722,
                         "y": 868
                     }
                 ]
