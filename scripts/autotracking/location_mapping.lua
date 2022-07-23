@@ -30,6 +30,7 @@ LOCATION_MAPPING = {
     [100022] = {"@High Wall of Lothric/HWL: Soul of Boreal Valley Vordt/HWL: Soul of Boreal Valley Vordt"},
     [100023] = {"@High Wall of Lothric/HWL: Soul of the Dancer/HWL: Soul of the Dancer"},
     [100024] = {"@High Wall of Lothric/HWL: Banner+Basin+Way of Blue/HWL: Way of Blue Covenant"},
+    [100197] = {"@High Wall of Lothric/HWL: Greirat's Ashes/HWL: Greirat's Ashes"},
 
     [100025] = {"@Undead Settlement/US: Small Leather Shield/US: Small Leather Shield"},
     [100026] = {"@Undead Settlement/US: Whip/US: Whip"},
@@ -209,7 +210,6 @@ LOCATION_MAPPING = {
     [100194] = {"@Irithyll of the Boreal Valley/IBV: Great Heal/IBV: Great Heal"},
     [100195] = {"@Irithyll of the Boreal Valley/IBV: Smough's Great Hammer+Leo Ring/IBV: Smough's Great Hammer"},
     [100196] = {"@Irithyll of the Boreal Valley/IBV: Smough's Great Hammer+Leo Ring/IBV: Leo Ring"},
-    [100197] = {"@Irithyll of the Boreal Valley/IBV: Greirat's Ashes/IBV: Greirat's Ashes"},
     [100198] = {"@Irithyll of the Boreal Valley/IBV: Excrement-covered Ashes/IBV: Excrement-covered Ashes"},
     [100299] = {"@Irithyll of the Boreal Valley/IBV: Dark Stoneplate Ring/IBV: Dark Stoneplate Ring"},
     [100200] = {"@Irithyll of the Boreal Valley/IBV: Easterner's Ashes/IBV: Easterner's Ashes"},

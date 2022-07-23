@@ -417,6 +417,23 @@
                         "y": 815
                     }
                 ]
+            },
+            {
+                "name": "HWL: Greirat's Ashes",
+                "access_rules": ["cellkey"],
+                "sections": [
+                    {
+                        "name": "HWL: Greirat's Ashes",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HWL",
+                        "x": 922,
+                        "y": 275
+                    }
+                ]
             }
         ]
     },
@@ -2709,23 +2726,6 @@
                 ]
             },
             {
-                "name": "IBV: Greirat's Ashes",
-                "access_rules": ["cellkey"],
-                "sections": [
-                    {
-                        "name": "IBV: Greirat's Ashes",
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "IBV",
-                        "x": 727,
-                        "y": 1275
-                    }
-                ]
-            },
-            {
                 "name": "IBV: Excrement-covered Ashes",
                 "sections": [
                     {
@@ -3438,6 +3438,7 @@
             },
             {
                 "name": "PC: Cinders+Soul of Yhorm the Giant",
+                "access_rules": ["[storm]"],
                 "sections": [
                     {
                         "name": "Cinders of a Lord - Yhorm the Giant",
@@ -3558,7 +3559,7 @@
     },
     {
         "name": "Untended Graves",
-        "access_rules": ["basin"],
+        "access_rules": ["basin,[storm]"],
         "children": [
             {
                 "name": "UG: Ashen Estus Ring",

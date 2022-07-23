@@ -11,42 +11,52 @@
                 "content": [
                     {
                         "type": "itemgrid",
-                        "item_margin": "0,2",
-                        "h_alignment": "left",
-                        "item_size": 38,
+                        "item_margin": "-1,2",
+                        "h_alignment": "center",
+                        "item_size": 34,
                         "rows": [
                             [
                                 "coiledsword",
                                 "banner",
                                 "basin",
                                 "doll",
+                                "storm",
                                 "dragon"
-                            ],
-                            [
-                                "towerkey",
-                                "jailbreaker",
-                                "jailring",
-                                "oldcell",
-                                "archives"
                             ]
                         ]
                     },
                     {
                         "type": "itemgrid",
-                        "item_margin": "2,0",
+                        "item_margin": "-1,-5",
                         "h_alignment": "center",
-                        "item_size": 45,
+                        "item_size": 34,
                         "rows": [
                             [
-                                "abyss",
-                                "yhorm",
-                                "aldrich",
-                                "lothric"
-                            ]
+                            "towerkey",
+                            "cellkey",
+                            "jailbreaker",
+                            "jailring",
+                            "oldcell",
+                            "archives"
                         ]
-                    }
-                ]
-            }
-        ]
-    }
+                    ]
+                },
+                {
+                    "type": "itemgrid",
+                    "item_margin": "2,0",
+                    "h_alignment": "center",
+                    "item_size": 45,
+                    "rows": [
+                        [
+                            "abyss",
+                            "yhorm",
+                            "aldrich",
+                            "lothric"
+                        ]
+                    ]
+                }
+            ]
+        }
+    ]
+}
 }
