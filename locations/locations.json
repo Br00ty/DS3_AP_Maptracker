@@ -52,6 +52,30 @@
                 ]
             },
             {
+                "name": "FS: Master NPC",
+                "sections": [
+                    {
+                        "name": "FS: Uchigatana",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "FS: Master's Attire",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "FS: Master's Gloves",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "FS",
+                        "x": 123,
+                        "y": 280
+                    }
+                ]
+            },
+            {
                 "name": "FSBT: Covetous Silver Serpent Ring",
                 "access_rules": [
                     "[towerkey]"
@@ -2540,6 +2564,22 @@
                 ]
             },
             {
+                "name": "SL: Knight Slayer Tsorig NPC",
+                "sections": [
+                    {
+                        "name": "SL: Knight Slayer's Ring",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "SL",
+                        "x": 819,
+                        "y": 1007
+                    }
+                ]
+            },
+            {
                 "name": "SL: Soul of the Old Demon King",
                 "sections": [
                     {
@@ -3528,6 +3568,7 @@
                 "sections": [
                     {
                         "name": "CKG: Path of the Dragon Gesture",
+                        "hosted_item": "dragon",
                         "item_count": 1
                     }
                 ],
@@ -3892,10 +3933,15 @@
                 ]
             },
             {
-                "name": "LC: Grand Archives Key",
+                "name": "LC: Grand Archives Key+Gotthard Twinswords",
+                "access_rules": ["aldrich,yhorm"],
                 "sections": [
                     {
                         "name": "LC: Grand Archives Key",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "LC: Gotthard Twinswords",
                         "item_count": 1
                     }
                 ],
@@ -4035,7 +4081,7 @@
                 ]
             },
             {
-                "name": "GA: Golden Wing Crest Shield+Onikiri and Ubadachi",
+                "name": "GA: Hostile NPC Trio ",
                 "sections": [
                     {
                         "name": "GA: Golden Wing Crest Shield",
@@ -4043,6 +4089,10 @@
                     },
                     {
                         "name": "GA: Onikiri and Ubadachi",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "GA: Sage's Crystal Staff",
                         "item_count": 1
                     }
                 ],
