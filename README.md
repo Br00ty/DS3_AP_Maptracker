@@ -1,10 +1,10 @@
-# Template Pack for PopTracker
+# Dark Souls III Map Tracker Pack for PopTracker
 
-This a Dark Souls III map tracker package for PopTracker.
+This is a Dark Souls III Map Tracker for PopTracker. Designed around the Archipelago version of the randomizer, setup for auto-tracking as well. 
 
 ## Installation
 
-Download the latest release from the releases section! :)
+Download the latest release from the releases section, and then move it into `/poptracker/packs/` and you're all set!
 
 ## More Info
 

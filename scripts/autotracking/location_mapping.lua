@@ -7,7 +7,7 @@ LOCATION_MAPPING = {
     [100001] = {"@Firelink Shrine/FS: East-West Shield/FS: East-West Shield"},
     [100002] = {"@Firelink Shrine/FS: Master NPC/FS: Uchigatana"},   
     [100003] = {"@Firelink Shrine/FS: Master NPC/FS: Master's Attire"},  
-    [100004] = {"@Firelink Shrine/FS: Master NPC/FS: 6"},  
+    [100004] = {"@Firelink Shrine/FS: Master NPC/FS: Master's Gloves"},  
     
     
     [100005] = {"@Firelink Shrine/FSBT: Covetous Silver Serpent Ring/FSBT: Covetous Silver Serpent Ring"},

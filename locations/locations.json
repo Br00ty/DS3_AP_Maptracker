@@ -3933,8 +3933,8 @@
                 ]
             },
             {
-                "name": "LC: Grand Archives Key+Gotthard Twinswords",
-                "access_rules": ["aldrich,yhorm"],
+                "name": "LC: Gotthard's Body (need to beat Aldrich+Yhorm)",
+                "access_rules": ["doll,storm"],
                 "sections": [
                     {
                         "name": "LC: Grand Archives Key",
