@@ -13,7 +13,7 @@
                         "type": "itemgrid",
                         "item_margin": "-1,2",
                         "h_alignment": "center",
-                        "item_size": 34,
+                        "item_size": 40,
                         "rows": [
                             [
                                 "coiledsword",
@@ -29,7 +29,7 @@
                         "type": "itemgrid",
                         "item_margin": "-1,-5",
                         "h_alignment": "center",
-                        "item_size": 34,
+                        "item_size": 40,
                         "rows": [
                             [
                             "towerkey",
@@ -45,7 +45,7 @@
                     "type": "itemgrid",
                     "item_margin": "2,0",
                     "h_alignment": "center",
-                    "item_size": 45,
+                    "item_size": 55,
                     "rows": [
                         [
                             "abyss",
