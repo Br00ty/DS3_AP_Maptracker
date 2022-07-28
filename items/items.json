@@ -353,5 +353,17 @@
         "name": "Captain's Ashes",
         "codes": "ashes_captain",
         "img": "images/items/ashes_captain.png"
+    },
+    {
+        "type": "toggle",
+        "name": "Soul of Aldrich",
+        "codes": "aldrich_s",
+        "img": "images/items/soul_of_aldrich.png"
+    },
+    {
+        "type": "toggle",
+        "name": "Soul of Yhorm the Giant",
+        "codes": "yhorm_s",
+        "img": "images/items/soul_of_yhorm_the_giant.png"
     }
 ]

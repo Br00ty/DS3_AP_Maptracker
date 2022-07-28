@@ -3044,6 +3044,7 @@
                     },
                     {
                         "name": "AL: Soul of Aldrich",
+                        "hosted_item": "aldrich_s",
                         "item_count": 1
                     }
                 ],
@@ -3486,6 +3487,7 @@
                     },
                     {
                         "name": "Soul of Yhorm the Giant",
+                        "hosted_item": "yhorm_s",
                         "item_count": 1
                     }
                 ],
@@ -3934,7 +3936,7 @@
             },
             {
                 "name": "LC: Gotthard's Body (need to beat Aldrich+Yhorm)",
-                "access_rules": ["doll,storm"],
+                "access_rules": ["aldrich_s,yhorm_s"],
                 "sections": [
                     {
                         "name": "LC: Grand Archives Key",
