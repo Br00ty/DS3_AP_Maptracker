@@ -3330,22 +3330,6 @@
                         "y": 1057
                     }
                 ]
-            },
-            {
-                "name": "ID: Dark Clutch Ring",
-                "sections": [
-                    {
-                        "name": "ID: Dark Clutch Ring",
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "ID",
-                        "x": 805,
-                        "y": 1024
-                    }
-                ]
             }
         ]
     },
