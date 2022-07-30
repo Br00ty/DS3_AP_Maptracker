@@ -3221,17 +3221,21 @@
                 ]
             },
             {
-                "name": "ID: Old Cell Key",
+                "name": "ID: Old Cell Key+Dark Clutch Ring",
                 "sections": [
                     {
                         "name": "ID: Old Cell Key",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "ID: Dark Clutch Ring",
                         "item_count": 1
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "ID",
-                        "x": 549,
+                        "x": 538,
                         "y": 724
                     }
                 ]
