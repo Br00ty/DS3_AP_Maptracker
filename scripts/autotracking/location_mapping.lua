@@ -200,8 +200,8 @@ LOCATION_MAPPING = {
     [100185] = {"@Smouldering Lake/SL: White Hair Talisman/SL: White Hair Talisman"},
     [100186] = {"@Smouldering Lake/SL: Izalith Staff/SL: Izalith Staff"},
     [100187] = {"@Smouldering Lake/SL: Sacred Flame/SL: Sacred Flame"},
-    [100188] = {"@Smouldering Lake/SL: Fume Ultra Greatsword+Black Iron Greatshield/SL: Fume Ultra Greatsword"},
-    [100189] = {"@Smouldering Lake/SL: Fume Ultra Greatsword+Black Iron Greatshield/SL: Black Iron Greatshield"},
+    [100188] = {"@Smouldering Lake/SL: Knight Slayer Tsorig NPC/SL: Fume Ultra Greatsword"},
+    [100189] = {"@Smouldering Lake/SL: Knight Slayer Tsorig NPC/SL: Black Iron Greatshield"},
     [100190] = {"@Smouldering Lake/SL: Soul of the Old Demon King/SL: Soul of the Old Demon King"},
     [100191] = {"@Smouldering Lake/SL: Knight Slayer Tsorig NPC/SL: Knight Slayer's Ring"},
 
