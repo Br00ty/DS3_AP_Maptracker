@@ -308,8 +308,8 @@ LOCATION_MAPPING = {
     [100272] = {"@Lothric Castle/LC: Knight's Ring/LC: Knight's Ring"},
     [100273] = {"@Lothric Castle/LC: Sunlight Straight Sword/LC: Sunlight Straight Sword"},
     [100274] = {"@Lothric Castle/LC: Soul of Dragonslayer Armour/LC: Soul of Dragonslayer Armour"},
-    [100275] = {"@Lothric Castle/LC: Grand Archives Key+Gotthard Twinswords/LC: Grand Archives Key"},
-    [100276] = {"@Lothric Castle/LC: Grand Archives Key+Gotthard Twinswords/LC: Gotthard Twinswords"},
+    [100275] = {"@Lothric Castle/LC: Gotthard's Body (need to beat Aldrich+Yhorm)/LC: Grand Archives Key"},
+    [100276] = {"@Lothric Castle/LC: Gotthard's Body (need to beat Aldrich+Yhorm)/LC: Gotthard Twinswords"},
 
     [100284] = {"@Grand Archives/GA: Avelyn/GA: Avelyn"},
     [100285] = {"@Grand Archives/GA: Witch's Locks+Power Within/GA: Witch's Locks"},
