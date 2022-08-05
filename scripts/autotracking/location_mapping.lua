@@ -342,4 +342,6 @@ LOCATION_MAPPING = {
     [100319] = {"@Archdragon Peak/AP: Dragonslayer Set/AP: Dragonslayer Leggings"},
     [100320] = {"@Archdragon Peak/AP: Ricard's Rapier/AP: Ricard's Rapier"},
     [100321] = {"@Archdragon Peak/AP: Soul of the Nameless King/AP: Soul of the Nameless King"},
+    [100322] = {"@Archdragon Peak/AP: Havel Knight NPC/AP: Dragon Tooth"},
+    [100323] = {"@Archdragon Peak/AP: Havel Knight NPC/AP: Havel's Greatshield"},
 }

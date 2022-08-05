@@ -1,6 +1,7 @@
 ﻿{
   "tracker_broadcast": {
     "type": "array",
+    "background": "#FF000000",
     "orientation": "vertical",
     "margin": "0,0",
     "content": [

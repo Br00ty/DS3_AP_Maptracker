@@ -4345,6 +4345,26 @@
                 ]
             },
             {
+                "name": "AP: Havel Knight NPC",
+                "sections": [
+                    {
+                        "name": "AP: Dragon Tooth",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "AP: Havel's Greatshield",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "AP",
+                        "x": 1466,
+                        "y": 66
+                    }
+                ]
+            },
+            {
                 "name": "AP: Soul of the Nameless King",
                 "sections": [
                     {
