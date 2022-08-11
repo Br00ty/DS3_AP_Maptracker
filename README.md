@@ -10,6 +10,10 @@ Download the latest release from the releases section, and then move it into `/p
 
 To connect to the AP server for auto-tracking, clik on `AP` button at the top of the tracker, a seperate window should pop up asking for you to "enter archipelago server port", in which you should type in `archipelago.gg:PORT_NUMBER` (or whatever ip/port combination you're connecting to), select `OK` and then continue to enter in your Slot name and the password to the room (if there is one). Once complete, the `AP` button at the top of the tracker window should turn "Green" meaning you are now auto-tracking!
 
+## More Notes
+
+Iudex Gundyr, Coiled Sword, and Path of the Dragon are not randomized nor auto-tracked at this time. There are also two Tower Keys at the moment; one being in the pool and one being in the shop, if you purchase the Tower Key from the shop, it will not auto-track and you will have to select the Tower Key on the item tracker yourself
+
 ## More Info
 
 Check out PopTrackers Documentation on packs [here](https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md)
