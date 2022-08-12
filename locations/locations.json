@@ -2968,6 +2968,22 @@
                         "y": 788
                     }
                 ]
+            },
+            {
+                "name": "IBV: Drang Twinspear NPC",
+                "sections": [
+                    {
+                        "name": "IBV: Drang Twinspear",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "IBV",
+                        "x": 1480,
+                        "y": 924
+                    }
+                ]
             }
         ]
     },
