@@ -233,7 +233,7 @@ LOCATION_MAPPING = {
     [100217] = {"@Irithyll of the Boreal Valley/IBV: Golden Ritual Spear/IBV: Golden Ritual Spear"},
     [100218] = {"@Irithyll of the Boreal Valley/IBV: Soul of Pontiff Sulyvahn/IBV: Soul of Pontiff Sulyvahn"},
     [100219] = {"@Irithyll of the Boreal Valley/IBV: Aldrich Faithful Covenant/IBV: Aldrich Faithful Covenant"},
-    [100220] = {"@Irithyll of the Boreal Valley/IBV: Drang Twinspear NPC/IBV: Drang Twinspear"},
+    [100220] = {"@Irithyll of the Boreal Valley/IBV: Drang Twinspears NPC/IBV: Drang Twinspears"},
 
     [100253] = {"@Anor Londo/AL: Giant's Coal/AL: Giant's Coal"},
     [100254] = {"@Anor Londo/AL: Sun Princess Ring/AL: Sun Princess Ring"},
