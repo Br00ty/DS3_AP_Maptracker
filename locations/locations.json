@@ -963,6 +963,54 @@
                         "y": 650
                     }
                 ]
+            },
+            {
+                "name": "US: Blessed Red and White Shield",
+                "sections": [
+                    {
+                        "name": "US: Blessed Red and White Shield",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "US",
+                        "x": 1525,
+                        "y": 460
+                    }
+                ]
+            },
+            {
+                "name": "US: Cornyx's Ashes",
+                "sections": [
+                    {
+                        "name": "US: Cornyx's Ashes",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "US",
+                        "x": 719,
+                        "y": 428
+                    }
+                ]
+            },
+            {
+                "name": "US: Irina's Ashes",
+                "sections": [
+                    {
+                        "name": "US: Irina's Ashes",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "US",
+                        "x": 1611,
+                        "y": 352
+                    }
+                ]
             }
         ]
     },
@@ -1383,6 +1431,22 @@
                         "map": "RS",
                         "x": 276,
                         "y": 185
+                    }
+                ]
+            },
+            {
+                "name": "RS: Orbeck's Ashes",
+                "sections": [
+                    {
+                        "name": "RS: Orbeck's Ashes",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "RS",
+                        "x": 116,
+                        "y": 383
                     }
                 ]
             }
@@ -3334,6 +3398,23 @@
                         "y": 1057
                     }
                 ]
+            },
+            {
+                "name": "ID: Karla's Ashes",
+                "access_rules": ["jailring"],
+                "sections": [
+                    {
+                        "name": "ID: Karla's Ashes",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ID",
+                        "x": 654,
+                        "y": 961
+                    }
+                ]
             }
         ]
     },
@@ -3589,12 +3670,28 @@
                         "y": 350
                     }
                 ]
+            },
+            {
+                "name": "CKG: Magic Stoneplate Ring",
+                "sections": [
+                    {
+                        "name": "CKG: Magic Stoneplate Ring",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CKG",
+                        "x": 406,
+                        "y": 93
+                    }
+                ]
             }
         ]
     },
     {
         "name": "Untended Graves",
-        "access_rules": ["basin,[storm]"],
+        "access_rules": ["basin"],
         "children": [
             {
                 "name": "UG: Ashen Estus Ring",
@@ -3831,18 +3928,22 @@
                 ]
             },
             {
-                "name": "LC: Spirit Tree Crest Shield",
+                "name": "LC: Spirit Tree Crest Shield+Irithyll Rapier",
                 "sections": [
                     {
                         "name": "LC: Spirit Tree Crest Shield",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "LC: Irithyll Rapier",
                         "item_count": 1
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "LC",
-                        "x": 1118,
-                        "y": 382
+                        "x": 1092,
+                        "y": 397
                     }
                 ]
             },
@@ -3957,6 +4058,22 @@
                 "sections": [
                     {
                         "name": "LC: Soul of Dragonslayer Armour",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "LC",
+                        "x": 608,
+                        "y": 968
+                    }
+                ]
+            },
+            {
+                "name": "LC: Irithyll Rapier",
+                "sections": [
+                    {
+                        "name": "LC: Irithyll Rapier",
                         "item_count": 1
                     }
                 ],
@@ -4147,6 +4264,34 @@
                         "map": "GA",
                         "x": 1108,
                         "y": 1168
+                    }
+                ]
+            },
+            {
+                "name": "GA: Outrider Knight Set",
+                "sections": [
+                    {
+                        "name": "GA: Outrider Knight Helm",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "GA: Outrider Knight Armor",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "GA: Outrider Knight Gauntlets",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "GA: Outrider Knight Leggings",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "GA",
+                        "x": 727,
+                        "y": 345
                     }
                 ]
             }
