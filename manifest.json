@@ -1,7 +1,7 @@
 ﻿{
   "name": "Dark Souls III Randomizer",
   "game_name": "Dark Souls III",
-  "package_version": "1.2",
+  "package_version": "2.0",
   "package_uid": "ds3_br00ty",
   "platform": "PC", //enables SNES memory autotracking interface - remove/change if not needed
   "author": "Br00ty",
