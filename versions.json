@@ -3,7 +3,7 @@
         {
             "package_version": "3.1",
             "download_url": "https://github.com/Br00ty/DS3_AP_Maptracker/releases/download/v3.1/ds3_br00ty.zip",
-            "sha256": "d1ebed4f1bd2723b35acf35de363adcf35c933446993c7999439668419e0794e",
+            "sha256": "7B83EFF1D3548B3EEAE3AB4FA8DEB6F9CBEAC2AA8869B54AD9E7C78A0B60D9A9",
             "changelog": [
                 "Update Testing",
                 "Autotracking Updated"
@@ -12,7 +12,7 @@
         {
             "package_version": "3.0",
             "download_url": "https://github.com/Br00ty/DS3_AP_Maptracker/releases/download/v3.0/ds3_br00ty.zip",
-            "sha256": "bf667e15367be996636829d4b7dda0dd49753e69a7a27b522a07e0a6a3e5a298",
+            "sha256": "096E1543F33E47BEACB81A60D5C2E9CAC766F24D8FACBAA47F5E8349D7976919",
             "changelog": [
                 "Added DLC Maps",
                 "Added `Contraption Key` and `Small Envoy Banner` to item tracker"
