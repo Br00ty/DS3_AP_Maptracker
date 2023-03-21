@@ -1,22 +1,23 @@
 ﻿{
   "name": "Dark Souls III Randomizer",
   "game_name": "Dark Souls III",
-  "package_version": "2.0",
+  "package_version": "3.0",
   "package_uid": "ds3_br00ty",
-  "platform": "PC", //enables SNES memory autotracking interface - remove/change if not needed
+  "platform": "PC",
   "author": "Br00ty",
   "variants": {
     "standard": {
       "display_name": "Map Tracker",
       "flags": [
-        "ap" //enables AP autotracking interface - remove if not needed
+        "ap"
       ]
     },
     "var_itemsonly": {
      "display_name": "Items Only",
      "flags": [
-       "ap" //enables AP autotracking interface - remove if not needed
+       "ap"
      ]
     }
-  }
+  },
+  "versions_url": "https://raw.githubusercontent.com/Br00ty/DS3_AP_Maptracker/master/versions.json"
 }

@@ -13,4 +13,6 @@ ITEM_MAPPING = {
     [100616] = {"yhorm", "toggle"},
     [100617] = {"aldrich", "toggle"},
     [100620] = {"lothric", "toggle"},
+    [101701] = {"contraptionkey", "toggle"},
+    [101702] = {"envoybanner", "toggle"},
 }

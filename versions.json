@@ -1,0 +1,12 @@
+{
+    "versions": [
+      {
+        "package_version": "3.0",
+        "download_url": "https://github.com/Br00ty/DS3_AP_Maptracker/releases/download/3.0/ds3_br00ty.zip",
+        "changelog": [
+          "Added DLC Maps",
+          "Added `Contraption Key` and `Small Envoy Banner` to item tracker"
+        ]
+      }
+    ]
+  }

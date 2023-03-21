@@ -177,6 +177,33 @@
                   "AP"
                 ]
               }
+            },
+            {
+              "title": "Painted World of Ariandel",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "PW"
+                ]
+              }
+            },
+            {
+              "title": "Dreg Heap",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "DH"
+                ]
+              }
+            },
+            {
+              "title": "The Ringed City",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "RC"
+                ]
+              }
             }
           ]
         }
@@ -361,6 +388,33 @@
                 "type": "map",
                 "maps": [
                   "AP"
+                ]
+              }
+            },
+            {
+              "title": "Painted World of Ariandel",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "PWA"
+                ]
+              }
+            },
+            {
+              "title": "Dreg Heap",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "DH"
+                ]
+              }
+            },
+            {
+              "title": "The Ringed City",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "RC"
                 ]
               }
             }

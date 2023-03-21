@@ -21,7 +21,8 @@
                                 "basin",
                                 "doll",
                                 "storm",
-                                "dragon"
+                                "dragon",
+                                "envoybanner"
                             ]
                         ]
                     },
@@ -37,7 +38,8 @@
                             "jailbreaker",
                             "jailring",
                             "oldcell",
-                            "archives"
+                            "archives",
+                            "contraptionkey"
                         ]
                     ]
                 },
@@ -45,7 +47,7 @@
                     "type": "itemgrid",
                     "item_margin": "2,0",
                     "h_alignment": "center",
-                    "item_size": 55,
+                    "item_size": 62,
                     "rows": [
                         [
                             "abyss",

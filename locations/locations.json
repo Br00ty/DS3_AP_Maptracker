@@ -4542,5 +4542,1092 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "Painted World of Ariandel",
+        "access_rules": ["contraptionkey,banner"],
+        "children": [
+            {
+                "name": "PW: Follower Javelin",
+                "sections": [
+                    {
+                        "name": "PW: Follower Javelin",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "PWA",
+                        "x": 276,
+                        "y": 300
+                    }
+                ]
+            },
+            {
+                "name": "PW: Frozen Weapon",
+                "sections": [
+                    {
+                        "name": "PW: Frozen Weapon",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "PWA",
+                        "x": 486,
+                        "y": 309
+                    }
+                ]
+            },
+            {
+                "name": "PW: Millwood Greatbow",
+                "sections": [
+                    {
+                        "name": "PW: Millwood Greatbow",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "PWA",
+                        "x": 449,
+                        "y": 490
+                    }
+                ]
+            },
+            {
+                "name": "PW: Captains Ashes",
+                "sections": [
+                    {
+                        "name": "PW: Captains Ashes",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "PWA",
+                        "x": 886,
+                        "y": 105
+                    }
+                ]
+            },
+            {
+                "name": "PW: Millwood Battle Axe",
+                "sections": [
+                    {
+                        "name": "PW: Millwood Battle Axe",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "PWA",
+                        "x": 921,
+                        "y": 195
+                    }
+                ]
+            },
+            {
+                "name": "PW: Ethereal Oak Shield",
+                "sections": [
+                    {
+                        "name": "PW: Ethereal Oak Shield",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "PWA",
+                        "x": 901,
+                        "y": 343
+                    }
+                ]
+            },
+            {
+                "name": "PW: Crow Quills",
+                "sections": [
+                    {
+                        "name": "PW: Crow Quills",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "PWA",
+                        "x": 1235,
+                        "y": 449
+                    }
+                ]
+            },
+            {
+                "name": "PW: Slave Knight Set",
+                "sections": [
+                    {
+                        "name": "PW: Slave Knight Hood",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "PW: Slave Knight Armor",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "PW: Slave Knight Gauntlets",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "PW: Slave Knight Leggings",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "PWA",
+                        "x": 1635,
+                        "y": 490
+                    }
+                ]
+            },
+            {
+                "name": "PW: Way of White Corona",
+                "sections": [
+                    {
+                        "name": "PW: Way of White Corona",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "PWA",
+                        "x": 1892,
+                        "y": 436
+                    }
+                ]
+            },
+            {
+                "name": "PW: Crow Talons",
+                "sections": [
+                    {
+                        "name": "PW: Crow Talons",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "PWA",
+                        "x": 1123,
+                        "y": 231
+                    }
+                ]
+            },
+            {
+                "name": "PW: Quakestone Hammer",
+                "sections": [
+                    {
+                        "name": "PW: Quakestone Hammer",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "PWA",
+                        "x": 730,
+                        "y": 1395
+                    }
+                ]
+            },
+            {
+                "name": "PW: Earth Seeker",
+                "sections": [
+                    {
+                        "name": "PW: Earth Seeker",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "PWA",
+                        "x": 789,
+                        "y": 1282
+                    }
+                ]
+            },
+            {
+                "name": "PW: Follower Torch",
+                "sections": [
+                    {
+                        "name": "PW: Follower Torch",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "PWA",
+                        "x": 843,
+                        "y": 1350
+                    }
+                ]
+            },
+            {
+                "name": "PW: Follower Shield",
+                "sections": [
+                    {
+                        "name": "PW: Follower Shield",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "PWA",
+                        "x": 892,
+                        "y": 1167
+                    }
+                ]
+            },
+            {
+                "name": "PW: Follower Sabre",
+                "sections": [
+                    {
+                        "name": "PW: Follower Sabre",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "PWA",
+                        "x": 1088,
+                        "y": 1137
+                    }
+                ]
+            },
+            {
+                "name": "PW: Snap Freeze",
+                "sections": [
+                    {
+                        "name": "PW: Snap Freeze",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "PWA",
+                        "x": 1354,
+                        "y": 1375
+                    }
+                ]
+            },
+            {
+                "name": "PW: Floating Chaos",
+                "sections": [
+                    {
+                        "name": "PW: Floating Chaos",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "PWA",
+                        "x": 1791,
+                        "y": 1286
+                    }
+                ]
+            },
+            {
+                "name": "PW: Pyromancer's Parting Flame",
+                "sections": [
+                    {
+                        "name": "PW: Pyromancer's Parting Flame",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "PWA",
+                        "x": 1814,
+                        "y": 1354
+                    }
+                ]
+            },
+            {
+                "name": "PW: Vilhelm's Set",
+                "sections": [
+                    {
+                        "name": "PW: Vilhelm's Helm",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "PW: Vilhelm's Armor",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "PW: Vilhelm's Gauntlets",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "PW: Vilhelm's Leggings",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "PWA",
+                        "x": 1742,
+                        "y": 1092
+                    }
+                ]
+            },
+            {
+                "name": "PW: Gravetender Fight",
+                "sections": [
+                    {
+                        "name": "PW: Valorheart",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "PW: Champions Bones",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "PWA",
+                        "x": 1541,
+                        "y": 1091
+                    }
+                ]
+            },
+            {
+                "name": "PW: Vilhelm",
+                "sections": [
+                    {
+                        "name": "PW: Onyx Blade",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "PW: Contraption Key",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "PWA",
+                        "x": 209,
+                        "y": 1066
+                    }
+                ]
+            },
+            {
+                "name": "PW: Sister Friede",
+                "sections": [
+                    {
+                        "name": "PW: Titanite Slab",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "PW: Soul of Sister Friede",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "PWA",
+                        "x": 1529,
+                        "y": 896
+                    }
+                ]
+            },
+            {
+                "name": "PW: Chillbite Ring",
+                "sections": [
+                    {
+                        "name": "PW: Chillbite Ring",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "PWA",
+                        "x": 1421,
+                        "y": 884
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "The Dreg Heap",
+        "access_rules": ["contraptionkey,banner"],
+        "children": [
+            {
+                "name": "DH: Loincloth",
+                "sections": [
+                    {
+                        "name": "DH: Loincloth",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DH",
+                        "x": 1520,
+                        "y": 106
+                    }
+                ]
+            },
+            {
+                "name": "DH: Aquamarine Dagger",
+                "sections": [
+                    {
+                        "name": "DH: Aquamarine Dagger",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DH",
+                        "x": 106,
+                        "y": 386
+                    }
+                ]
+            },
+            {
+                "name": "DH: Murky Hand Scythe",
+                "sections": [
+                    {
+                        "name": "DH: Murky Hand Scythe",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DH",
+                        "x": 396,
+                        "y": 350
+                    }
+                ]
+            },
+            {
+                "name": "DH: Murky Longstaff",
+                "sections": [
+                    {
+                        "name": "DH: Murky Longstaff",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DH",
+                        "x": 592,
+                        "y": 498
+                    }
+                ]
+            },
+            {
+                "name": "DH: Great Soul Dregs",
+                "sections": [
+                    {
+                        "name": "DH: Great Soul Dregs",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DH",
+                        "x": 744,
+                        "y": 366
+                    }
+                ]
+            },
+            {
+                "name": "DH: Lothric War Banner",
+                "sections": [
+                    {
+                        "name": "DH: Lothric War Banner",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DH",
+                        "x": 888,
+                        "y": 90
+                    }
+                ]
+            },
+            {
+                "name": "DH: Projected Heal",
+                "sections": [
+                    {
+                        "name": "DH: Projected Heal",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DH",
+                        "x": 934,
+                        "y": 86
+                    }
+                ]
+            },
+            {
+                "name": "DH: Desert Pyromancer Hood",
+                "sections": [
+                    {
+                        "name": "DH: Desert Pyromancer Hood",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DH",
+                        "x": 1130,
+                        "y": 1140
+                    }
+                ]
+            },
+            {
+                "name": "DH: Desert Pyromancer Garb",
+                "sections": [
+                    {
+                        "name": "DH: Desert Pyromancer Garb",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DH",
+                        "x": 1068,
+                        "y": 304
+                    }
+                ]
+            },
+            {
+                "name": "DH: Desert Pyromancer Gloves",
+                "sections": [
+                    {
+                        "name": "DH: Desert Pyromancer Gloves",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DH",
+                        "x": 1292,
+                        "y": 480
+                    }
+                ]
+            },
+            {
+                "name": "DH: Desert Pyromancer Skirt",
+                "sections": [
+                    {
+                        "name": "DH: Desert Pyromancer Skirt",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DH",
+                        "x": 1358,
+                        "y": 446
+                    }
+                ]
+            },
+            {
+                "name": "DH: Giant Door Shield",
+                "sections": [
+                    {
+                        "name": "DH: Giant Door Shield",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DH",
+                        "x": 1070,
+                        "y": 258
+                    }
+                ]
+            },
+            {
+                "name": "DH: Herald Curved Greatsword",
+                "sections": [
+                    {
+                        "name": "DH: Herald Curved Greatsword",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DH",
+                        "x": 1684,
+                        "y": 196
+                    }
+                ]
+            },
+            {
+                "name": "DH: Flame Fan",
+                "sections": [
+                    {
+                        "name": "DH: Flame Fan",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DH",
+                        "x": 1164,
+                        "y": 1148
+                    }
+                ]
+            },
+            {
+                "name": "DH: Demon Prince Arena",
+                "sections": [
+                    {
+                        "name": "DH: Soul of the Demon Prince",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "DH: Small Envoy Banner",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DH",
+                        "x": 898,
+                        "y": 822
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "The Ringed City",
+        "access_rules": ["contraptionkey,banner,envoybanner"],
+        "children": [
+            {
+                "name": "RC: Ruin Set",
+                "sections": [
+                    {
+                        "name": "RC: Ruin Sentinel Helm",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "RC: Ruin Sentinel Armor",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "RC: Ruin Sentinel Gauntlets",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "RC: Ruin Sentinel Leggings",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "RC",
+                        "x": 339,
+                        "y": 591
+                    }
+                ]
+            },
+            {
+                "name": "RC: Black Witch Veil",
+                "sections": [
+                    {
+                        "name": "RC: Black Witch Veil",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "RC",
+                        "x": 1147,
+                        "y": 493
+                    }
+                ]
+            },
+            {
+                "name": "RC: Black Witch Set",
+                "sections": [
+                    {
+                        "name": "RC: Black Witch Hat",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "RC: Black Witch Garb",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "RC: Black Witch Wrappings",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "RC: Black Witch Trousers",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "RC",
+                        "x": 865,
+                        "y": 121
+                    }
+                ]
+            },
+            {
+                "name": "RC: White Preacher Head",
+                "sections": [
+                    {
+                        "name": "RC: White Preacher Head",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "RC",
+                        "x": 1053,
+                        "y": 273
+                    }
+                ]
+            },
+            {
+                "name": "RC: Havel's Ring",
+                "sections": [
+                    {
+                        "name": "RC: Havel's Ring",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "RC",
+                        "x": 1164,
+                        "y": 190
+                    }
+                ]
+            },
+            {
+                "name": "RC: Ringed Knight Spear",
+                "sections": [
+                    {
+                        "name": "RC: Ringed Knight Spear",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "RC",
+                        "x": 1027,
+                        "y": 268
+                    }
+                ]
+            },
+            {
+                "name": "RC: Dragonhead Shield",
+                "sections": [
+                    {
+                        "name": "RC: Dragonhead Shield",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "RC",
+                        "x": 1006,
+                        "y": 234
+                    }
+                ]
+            },
+            {
+                "name": "RC: Ringed Knight Straight Sword",
+                "sections": [
+                    {
+                        "name": "RC: Ringed Knight Straight Sword",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "RC",
+                        "x": 1048,
+                        "y": 336
+                    }
+                ]
+            },
+            {
+                "name": "RC: Preacher's Right Arm",
+                "sections": [
+                    {
+                        "name": "RC: Preacher's Right Arm",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "RC",
+                        "x": 1120,
+                        "y": 402
+                    }
+                ]
+            },
+            {
+                "name": "RC: White Birch Bow",
+                "sections": [
+                    {
+                        "name": "RC: White Birch Bow",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "RC",
+                        "x": 1398,
+                        "y": 289
+                    }
+                ]
+            },
+            {
+                "name": "RC: Church Guardian Shiv",
+                "sections": [
+                    {
+                        "name": "RC: Church Guardian Shiv",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "RC",
+                        "x": 1482,
+                        "y": 262
+                    }
+                ]
+            },
+            {
+                "name": "RC: Dragonhead Greatshield",
+                "sections": [
+                    {
+                        "name": "RC: Dragonhead Greatshield",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "RC",
+                        "x": 1051,
+                        "y": 472
+                    }
+                ]
+            },
+            {
+                "name": "RC: Ringed Knight Paired Greatswords",
+                "sections": [
+                    {
+                        "name": "RC: Ringed Knight Paired Greatswords",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "RC",
+                        "x": 690,
+                        "y": 1027
+                    }
+                ]
+            },
+            {
+                "name": "RC: Shira's Set",
+                "access_rules": ["shira"],
+                "sections": [
+                    {
+                        "name": "RC: Shira's Crown",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "RC: Shira's Armor",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "RC: Shira's Gloves",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "RC: Shira's Trousers",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "RC",
+                        "x": 870,
+                        "y": 232
+                    }
+                ]
+            },
+            {
+                "name": "RC: Shira Fight",
+                "sections": [
+                    {
+                        "name": "RC: Titanite Slab",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "RC: Crucifix of the Mad King",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "RC: Sacred Chime of Filianore",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Shira Defeat",
+                        "hosted_item": "shira"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "RC",
+                        "x": 654,
+                        "y": 1210
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "",
+                        "ref": "The Ringed City/RC: Shira Fight/RC: Sacred Chime of Filianore"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "RC",
+                        "x": 894,
+                        "y": 206
+                    }
+                ]
+            },
+            {
+                "name": "RC: Iron Dragonslayer Set",
+                "sections": [
+                    {
+                        "name": "RC: Iron Dragonslayer Helm",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "RC: Iron Dragonslayer Armor",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "RC: Iron Dragonslayer Gauntlets",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "RC: Iron Dragonslayer Leggings",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "RC",
+                        "x": 1613,
+                        "y": 375
+                    }
+                ]
+            },
+            {
+                "name": "RC: Lightning Arrow",
+                "sections": [
+                    {
+                        "name": "RC: Lightning Arrow",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "RC",
+                        "x": 641,
+                        "y": 809
+                    }
+                ]
+            },
+            {
+                "name": "RC: Ritual Spear Fragment",
+                "sections": [
+                    {
+                        "name": "RC: Ritual Spear Fragment",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "RC",
+                        "x": 660,
+                        "y": 996
+                    }
+                ]
+            },
+            {
+                "name": "RC: Antiquated Plain Garb & Violet Wrappings",
+                "sections": [
+                    {
+                        "name": "RC: Antiquated Plain Garb",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "RC: Violet Wrappings",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "RC",
+                        "x": 521,
+                        "y": 950
+                    }
+                ]
+            },
+            {
+                "name": "RC: Soul of Darkeater Midir",
+                "sections": [
+                    {
+                        "name": "RC: Soul of Darkeater Midir",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "RC",
+                        "x": 489,
+                        "y": 917
+                    }
+                ]
+            },
+            {
+                "name": "RC: Slave Knight Gael",
+                "sections": [
+                    {
+                        "name": "RC: Soul of Slave Knight Gael",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "RC: Blood of the Dark Souls",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "RC",
+                        "x": 609,
+                        "y": 1203
+                    }
+                ]
+            }
+        ]
     }
 ]

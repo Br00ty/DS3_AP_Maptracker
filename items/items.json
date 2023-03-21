@@ -365,5 +365,25 @@
         "name": "Soul of Yhorm the Giant",
         "codes": "yhorm_s",
         "img": "images/items/soul_of_yhorm_the_giant.png"
+    },
+    // DLC
+    {
+        "type": "toggle",
+        "name": "Contraption Key",
+        "codes": "contraptionkey",
+        "img": "images/items/contraption_key.png"
+    },
+    {
+        "type": "toggle",
+        "name": "Small Envoy Banner",
+        "codes": "envoybanner",
+        "img": "images/items/small_envoy_banner.png"
+    },
+    // NPC Event Triggers
+    {
+        "type": "toggle",
+        "name": "Shira",
+        "codes": "shira",
+        "img": "images/items/shira.png"
     }
 ]

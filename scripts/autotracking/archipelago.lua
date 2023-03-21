@@ -152,6 +152,10 @@ function onLocation(location_id, location_name)
     elseif AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
         print(string.format("onLocation: could not find object for code %s", v[1]))
     end
+    if location_name == "RC: Crucifix of the Mad King" then
+        obj = Tracker:FindObjectForCode("@The Ringed City/RC: Shira Fight/Shira Defeat")
+        obj.AvailableChestCount = obj.AvailableChestCount - 1
+    end
 end
 
 -- called when a locations is scouted
