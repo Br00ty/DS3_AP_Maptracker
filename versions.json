@@ -1,9 +1,9 @@
 {
     "versions": [
         {
-            "package_version": "3.2",
+            "package_version": "4.0",
             "download_url": "https://github.com/Br00ty/DS3_AP_Maptracker/releases/download/v3.2/ds3_br00ty.zip",
-            "sha256": "97CE966BB1E52FD81A7CB606E4C1A2DD42091EF52894CF6C1ED6029CE72F3964",
+            "sha256": "4C5761363D11D69EACF2F052C3FC5CA8CC8A2393998379D791FEEB72E55EE25A",
             "changelog": [
                 "Added Cornyx's Locations",
                 "Added Karla's Locations",
