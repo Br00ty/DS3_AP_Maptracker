@@ -1,6 +1,20 @@
 {
     "versions": [
         {
+            "package_version": "3.2",
+            "download_url": "https://github.com/Br00ty/DS3_AP_Maptracker/releases/download/v3.2/ds3_br00ty.zip",
+            "sha256": "97CE966BB1E52FD81A7CB606E4C1A2DD42091EF52894CF6C1ED6029CE72F3964",
+            "changelog": [
+                "Added Cornyx's Locations",
+                "Added Karla's Locations",
+                "Added multiple ring locations in the DLC",
+                "update some location ids",
+                "new toggleable settings to match new YAML settings",
+                "Autotracking Updated",
+                "fixed some location cords"
+            ]
+        },
+        {
             "package_version": "3.1",
             "download_url": "https://github.com/Br00ty/DS3_AP_Maptracker/releases/download/v3.1/ds3_br00ty.zip",
             "sha256": "7B83EFF1D3548B3EEAE3AB4FA8DEB6F9CBEAC2AA8869B54AD9E7C78A0B60D9A9",

@@ -21,6 +21,7 @@
             },
             {
                 "name": "FS: Broken Straight Sword",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "FS: Broken Straight Sword",
@@ -37,6 +38,7 @@
             },
             {
                 "name": "FS: East-West Shield",
+                "visibility_rules": ["shields"],
                 "sections": [
                     {
                         "name": "FS: East-West Shield",
@@ -56,14 +58,17 @@
                 "sections": [
                     {
                         "name": "FS: Uchigatana",
+                        "visibility_rules": ["weapons"],
                         "item_count": 1
                     },
                     {
                         "name": "FS: Master's Attire",
+                        "visibility_rules": ["armors"],
                         "item_count": 1
                     },
                     {
                         "name": "FS: Master's Gloves",
+                        "visibility_rules": ["armors"],
                         "item_count": 1
                     }
                 ],
@@ -77,6 +82,7 @@
             },
             {
                 "name": "FSBT: Covetous Silver Serpent Ring",
+                "visibility_rules": ["rings"],
                 "access_rules": [
                     "[towerkey]"
                 ],
@@ -96,6 +102,7 @@
             },
             {
                 "name": "FSBT: Fire Keeper Set",
+                "visibility_rules": ["armors"],
                 "access_rules": [
                     "towerkey"
                 ],
@@ -123,6 +130,7 @@
             },
             {
                 "name": "FSBT: Estus Ring",
+                "visibility_rules": ["rings"],
                 "access_rules": [
                     "towerkey"
                 ],
@@ -142,6 +150,7 @@
             },
             {
                 "name": "FSBT: Fire Keeper Soul",
+                "visibility_rules": ["misc"],
                 "access_rules": [
                     "towerkey"
                 ],
@@ -185,6 +194,7 @@
         "children": [
             {
                 "name": "HWL: Deep Battle Axe",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "HWL: Deep Battle Axe",
@@ -204,10 +214,12 @@
                 "sections": [
                     {
                         "name": "HWL: Club",
+                        "visibility_rules": ["weapons"],
                         "item_count": 1
                     },
                     {
                         "name": "HWL: Broken Straight Sword",
+                        "visibility_rules": ["weapons"],
                         "item_count": 0
                     },
                     {
@@ -225,6 +237,7 @@
             },
             {
                 "name": "HWL: Claymore",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "HWL: Claymore",
@@ -241,6 +254,7 @@
             },
             {
                 "name": "HWL: Binoculars",
+                "visibility_rules": ["misc"],
                 "sections": [
                     {
                         "name": "HWL: Binoculars",
@@ -257,6 +271,7 @@
             },
             {
                 "name": "HWL: Longbow",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "HWL: Longbow",
@@ -273,6 +288,7 @@
             },
             {
                 "name": "HWL: Mail Breaker",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "HWL: Mail Breaker",
@@ -289,6 +305,7 @@
             },
             {
                 "name": "HWL: Broadsword",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "HWL: Broadsword",
@@ -305,6 +322,7 @@
             },
             {
                 "name": "HWL: Silver Eagle Kite Shield",
+                "visibility_rules": ["shields"],
                 "sections": [
                     {
                         "name": "HWL: Silver Eagle Kite Shield",
@@ -321,6 +339,7 @@
             },
             {
                 "name": "HWL: Astora's Straight Sword",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "HWL: Astora's Straight Sword",
@@ -337,6 +356,7 @@
             },
             {
                 "name": "HWL: Cell Key",
+                "visibility_rules": ["keyitem"],
                 "sections": [
                     {
                         "name": "HWL: Cell Key",
@@ -353,6 +373,7 @@
             },
             {
                 "name": "HWL: Rapier",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "HWL: Rapier",
@@ -369,6 +390,7 @@
             },
             {
                 "name": "HWL: Lucerne",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "HWL: Lucerne",
@@ -388,14 +410,17 @@
                 "sections": [
                     {
                         "name": "HWL: Small Lothric Banner",
+                        "visibility_rules": ["keyitem"],
                         "item_count": 1
                     },
                     {
                         "name": "HWL: Basin of Vows",
+                        "visibility_rules": ["keyitem"],
                         "item_count": 1
                     },
                     {
                         "name": "HWL: Way of Blue Covenant",
+                        "visibility_rules": ["misc"],
                         "item_count": 1
                     }
                 ],
@@ -412,6 +437,7 @@
                 "sections": [
                     {
                         "name": "HWL: Soul of Boreal Valley Vordt",
+                        "visibility_rules": ["boss"],
                         "item_count": 1
                     }
                 ],
@@ -428,6 +454,7 @@
                 "sections": [
                     {
                         "name": "HWL: Soul of the Dancer",
+                        "visibility_rules": ["boss"],
                         "access_rules": [
                             "basin"
                         ],
@@ -443,11 +470,16 @@
                 ]
             },
             {
-                "name": "HWL: Greirat's Ashes",
+                "name": "HWL: Greirat NPC",
+                "visibility_rules": ["npcs"],
                 "access_rules": ["cellkey"],
                 "sections": [
                     {
                         "name": "HWL: Greirat's Ashes",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "HWL: Blue Tearstone Ring",
                         "item_count": 1
                     }
                 ],
@@ -467,6 +499,7 @@
         "children": [
             {
                 "name": "US: Small Leather Shield",
+                "visibility_rules": ["shields"],
                 "sections": [
                     {
                         "name": "US: Small Leather Shield",
@@ -483,6 +516,7 @@
             },
             {
                 "name": "US: Whip",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "US: Whip",
@@ -499,6 +533,7 @@
             },
             {
                 "name": "US: Reinforced Club",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "US: Reinforced Club",
@@ -518,35 +553,41 @@
                 "sections": [
                     {
                         "name": "US: Blue Wooden Shield",
+                        "visibility_rules": ["shields"],
                         "item_count": 1
                     },
                     {
                         "name": "US: Cleric Hat",
+                        "visibility_rules": ["armors"],
                         "item_count": 1
                     },
                     {
                         "name": "US: Cleric Blue Robe",
+                        "visibility_rules": ["armors"],
                         "item_count": 1
                     },
                     {
                         "name": "US: Cleric Gloves",
+                        "visibility_rules": ["armors"],
                         "item_count": 1
                     },
                     {
                         "name": "US: Cleric Trousers",
+                        "visibility_rules": ["armors"],
                         "item_count": 1
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "US",
-                        "x": 297,
+                        "x": 207,
                         "y": 236
                     }
                 ]
             },
             {
                 "name": "US: Mortician's Ashes",
+                "visibility_rules": ["keyitem"],
                 "sections": [
                     {
                         "name": "US: Mortician's Ashes",
@@ -563,6 +604,7 @@
             },
             {
                 "name": "US: Great Scythe",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "US: Great Scythe",
@@ -579,6 +621,7 @@
             },
             {
                 "name": "US: Caestus",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "US: Caestus",
@@ -595,6 +638,7 @@
             },
             {
                 "name": "US: Plank Shield",
+                "visibility_rules": ["shields"],
                 "sections": [
                     {
                         "name": "US: Plank Shield",
@@ -611,6 +655,7 @@
             },
             {
                 "name": "US: Flame Stoneplate Ring",
+                "visibility_rules": ["rings"],
                 "sections": [
                     {
                         "name": "US: Flame Stoneplate Ring",
@@ -627,6 +672,7 @@
             },
             {
                 "name": "US: Caduceus Round Shield",
+                "visibility_rules": ["shields"],
                 "sections": [
                     {
                         "name": "US: Caduceus Round Shield",
@@ -643,6 +689,7 @@
             },
             {
                 "name": "US: Fire Clutch Ring",
+                "visibility_rules": ["rings"],
                 "sections": [
                     {
                         "name": "US: Fire Clutch Ring",
@@ -659,6 +706,7 @@
             },
             {
                 "name": "US: Hand Axe",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "US: Hand Axe",
@@ -680,6 +728,7 @@
             },
             {
                 "name": "US: Bloodbite Ring",
+                "visibility_rules": ["rings"],
                 "sections": [
                     {
                         "name": "US: Bloodbite Ring",
@@ -701,6 +750,7 @@
             },
             {
                 "name": "US: Red Hilted Halberd",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "US: Red Hilted Halberd",
@@ -717,6 +767,7 @@
             },
             {
                 "name": "US: Saint's Talisman",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "US: Saint's Talisman",
@@ -733,6 +784,7 @@
             },
             {
                 "name": "US: Irithyll Straight Sword",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "US: Irithyll Straight Sword",
@@ -749,6 +801,7 @@
             },
             {
                 "name": "US: Large Club",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "US: Large Club",
@@ -765,6 +818,7 @@
             },
             {
                 "name": "US: Northern Set",
+                "visibility_rules": ["armors"],
                 "sections": [
                     {
                         "name": "US: Northern Helm",
@@ -793,6 +847,7 @@
             },
             {
                 "name": "US: Flynn's Ring",
+                "visibility_rules": ["rings"],
                 "sections": [
                     {
                         "name": "US: Flynn's Ring",
@@ -809,6 +864,7 @@
             },
             {
                 "name": "US: Mirrah Set",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "US: Mirrah Vest",
@@ -833,6 +889,7 @@
             },
             {
                 "name": "US: Chloranthy Ring",
+                "visibility_rules": ["rings"],
                 "sections": [
                     {
                         "name": "US: Chloranthy Ring",
@@ -849,6 +906,7 @@
             },
             {
                 "name": "US: Loincloth",
+                "visibility_rules": ["armors"],
                 "sections": [
                     {
                         "name": "US: Loincloth",
@@ -865,6 +923,7 @@
             },
             {
                 "name": "US: Wargod Wooden Shield",
+                "visibility_rules": ["shields"],
                 "sections": [
                     {
                         "name": "US: Wargod Wooden Shield",
@@ -881,6 +940,7 @@
             },
             {
                 "name": "US: Loretta's Bone",
+                "visibility_rules": ["keyitem"],
                 "sections": [
                     {
                         "name": "US: Loretta's Bone",
@@ -897,6 +957,7 @@
             },
             {
                 "name": "US: Partizan",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "US: Partizan",
@@ -921,6 +982,12 @@
                 "sections": [
                     {
                         "name": "US: Soul of the Rotted Greatwood",
+                        "visibility_rules": ["boss"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "US: Transposing Kiln",
+                        "visibility_rules": ["misc"],
                         "item_count": 1
                     }
                 ],
@@ -934,6 +1001,7 @@
             },
             {
                 "name": "US: Hawk Ring",
+                "visibility_rules": ["rings"],
                 "sections": [
                     {
                         "name": "US: Hawk Ring",
@@ -950,6 +1018,7 @@
             },
             {
                 "name": "US: Warrior of Sunlight Covenant",
+                "visibility_rules": ["misc"],
                 "sections": [
                     {
                         "name": "US: Warrior of Sunlight Covenant",
@@ -966,6 +1035,7 @@
             },
             {
                 "name": "US: Blessed Red and White Shield",
+                "visibility_rules": ["shields"],
                 "sections": [
                     {
                         "name": "US: Blessed Red and White Shield",
@@ -982,9 +1052,26 @@
             },
             {
                 "name": "US: Cornyx's Ashes",
+                "visibility_rules": ["npcs"],
                 "sections": [
                     {
                         "name": "US: Cornyx's Ashes",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "US: Pyromancy Flame",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "US: Cornyx's Wrap",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "US: Cornyx's Garb",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "US: Cornyx's Skirt",
                         "item_count": 1
                     }
                 ],
@@ -998,9 +1085,14 @@
             },
             {
                 "name": "US: Irina's Ashes",
+                "visibility_rules": ["npcs"],
                 "sections": [
                     {
                         "name": "US: Irina's Ashes",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "US: Tower Key",
                         "item_count": 1
                     }
                 ],
@@ -1020,6 +1112,7 @@
         "children": [
             {
                 "name": "RS: Brigand Twindaggers",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "RS: Brigand Twindaggers",
@@ -1036,6 +1129,7 @@
             },
             {
                 "name": "RS: Brigand Set",
+                "visibility_rules": ["armors"],
                 "sections": [
                     {
                         "name": "RS: Brigand Hood",
@@ -1064,6 +1158,7 @@
             },
             {
                 "name": "RS: Butcher Knife",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "RS: Butcher Knife",
@@ -1080,6 +1175,7 @@
             },
             {
                 "name": "RS: Brigand Axe",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "RS: Brigand Axe",
@@ -1099,10 +1195,12 @@
                 "sections": [
                     {
                         "name": "RS: Braille Divine Tome of Carim",
+                        "visibility_rules": ["misc"],
                         "item_count": 1
                     },
                     {
                         "name": "RS: Morne's Ring",
+                        "visibility_rules": ["rings"],
                         "item_count": 1
                     }
                 ],
@@ -1116,6 +1214,7 @@
             },
             {
                 "name": "RS: Grass Crest Shield",
+                "visibility_rules": ["shields"],
                 "sections": [
                     {
                         "name": "RS: Grass Crest Shield",
@@ -1132,6 +1231,7 @@
             },
             {
                 "name": "RS: Twin Dragon Greatshield",
+                "visibility_rules": ["shields"],
                 "sections": [
                     {
                         "name": "RS: Twin Dragon Greatshield",
@@ -1148,6 +1248,7 @@
             },
             {
                 "name": "RS: Heretic's Staff",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "RS: Heretic's Staff",
@@ -1164,6 +1265,7 @@
             },
             {
                 "name": "RS: Sorcerer's Set",
+                "visibility_rules": ["armors"],
                 "sections": [
                     {
                         "name": "RS: Sorcerer Hood",
@@ -1192,6 +1294,7 @@
             },
             {
                 "name": "RS: Sage Ring",
+                "visibility_rules": ["rings"],
                 "sections": [
                     {
                         "name": "RS: Sage Ring",
@@ -1208,6 +1311,7 @@
             },
             {
                 "name": "RS: Fallen Knight Set",
+                "visibility_rules": ["armors"],
                 "sections": [
                     {
                         "name": "RS: Fallen Knight Helm",
@@ -1236,6 +1340,7 @@
             },
             {
                 "name": "RS: Conjurator Set",
+                "visibility_rules": ["armors"],
                 "sections": [
                     {
                         "name": "RS: Conjurator Hood",
@@ -1264,6 +1369,7 @@
             },
             {
                 "name": "RS: Great Swamp Pyromancy Tome",
+                "visibility_rules": ["misc"],
                 "sections": [
                     {
                         "name": "RS: Great Swamp Pyromancy Tome",
@@ -1280,6 +1386,7 @@
             },
             {
                 "name": "RS: Great Swamp Ring",
+                "visibility_rules": ["rings"],
                 "sections": [
                     {
                         "name": "RS: Great Swamp Ring",
@@ -1296,6 +1403,7 @@
             },
             {
                 "name": "RS: Great Club+Exile Greatsword",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "RS: Great Club",
@@ -1316,6 +1424,7 @@
             },
             {
                 "name": "RS: Farron Coal",
+                "visibility_rules": ["misc"],
                 "sections": [
                     {
                         "name": "RS: Farron Coal",
@@ -1332,6 +1441,7 @@
             },
             {
                 "name": "RS: Sellsword Twinblades",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "RS: Sellsword Twinblades",
@@ -1348,6 +1458,7 @@
             },
             {
                 "name": "RS: Sellsword Set",
+                "visibility_rules": ["armors"],
                 "sections": [
                     {
                         "name": "RS: Sellsword Helm",
@@ -1376,6 +1487,7 @@
             },
             {
                 "name": "RS: Golden Falcon Shield",
+                "visibility_rules": ["shields"],
                 "sections": [
                     {
                         "name": "RS: Golden Falcon Shield",
@@ -1392,6 +1504,7 @@
             },
             {
                 "name": "RS: Herald Set",
+                "visibility_rules": ["armors"],
                 "sections": [
                     {
                         "name": "RS: Herald Helm",
@@ -1420,6 +1533,7 @@
             },
             {
                 "name": "RS: Soul of a Crystal Sage",
+                "visibility_rules": ["boss"],
                 "sections": [
                     {
                         "name": "RS: Soul of a Crystal Sage",
@@ -1436,6 +1550,7 @@
             },
             {
                 "name": "RS: Orbeck's Ashes",
+                "visibility_rules": ["npcs"],
                 "sections": [
                     {
                         "name": "RS: Orbeck's Ashes",
@@ -1458,6 +1573,7 @@
         "children": [
             {
                 "name": "CD: Paladin's Ashes",
+                "visibility_rules": ["misc"],
                 "sections": [
                     {
                         "name": "CD: Paladin's Ashes",
@@ -1474,6 +1590,7 @@
             }, 
             {
                 "name": "CD: Spider Shield",
+                "visibility_rules": ["shields"],
                 "sections": [
                     {
                         "name": "CD: Spider Shield",
@@ -1490,6 +1607,7 @@
             }, 
             {
                 "name": "CD: Crest Shield",
+                "visibility_rules": ["shields"],
                 "sections": [
                     {
                         "name": "CD: Crest Shield",
@@ -1506,6 +1624,7 @@
             }, 
             {
                 "name": "CD: Notched Whip",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "CD: Notched Whip",
@@ -1522,6 +1641,7 @@
             }, 
             {
                 "name": "CD: Astora Greatsword",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "CD: Astora Greatsword",
@@ -1538,6 +1658,7 @@
             }, 
             {
                 "name": "CD: Executioner's Greatsword",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "CD: Executioner's Greatsword",
@@ -1554,6 +1675,7 @@
             },
             {
                 "name": "CD: Curse Ward Greatshield",
+                "visibility_rules": ["shields"],
                 "sections": [
                     {
                         "name": "CD: Curse Ward Greatshield",
@@ -1570,6 +1692,7 @@
             },
             {
                 "name": "CD: Saint-tree Bellvine",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "CD: Saint-tree Bellvine",
@@ -1586,6 +1709,7 @@
             },
             {
                 "name": "CD: Poisonbite Ring",
+                "visibility_rules": ["rings"],
                 "sections": [
                     {
                         "name": "CD: Poisonbite Ring",
@@ -1602,6 +1726,7 @@
             },
             {
                 "name": "CD: Lloyd's Sword Ring",
+                "visibility_rules": ["rings"],
                 "sections": [
                     {
                         "name": "CD: Lloyd's Sword Ring",
@@ -1618,6 +1743,7 @@
             },
             {
                 "name": "CD: Seek Guidance",
+                "visibility_rules": ["spells"],
                 "sections": [
                     {
                         "name": "CD: Seek Guidance",
@@ -1634,6 +1760,7 @@
             },
             {
                 "name": "CD: Aldrich's Sapphire",
+                "visibility_rules": ["rings"],
                 "sections": [
                     {
                         "name": "CD: Aldrich's Sapphire",
@@ -1650,6 +1777,7 @@
             },
             {
                 "name": "CD: Deep Braille Divine Tome",
+                "visibility_rules": ["misc"],
                 "sections": [
                     {
                         "name": "CD: Deep Braille Divine Tome",
@@ -1666,6 +1794,7 @@
             },
             {
                 "name": "CD: Saint Bident",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "CD: Saint Bident",
@@ -1682,6 +1811,7 @@
             },
             {
                 "name": "CD: Maiden Set",
+                "visibility_rules": ["armors"],
                 "sections": [
                     {
                         "name": "CD: Maiden Hood",
@@ -1710,6 +1840,7 @@
             },
             {
                 "name": "CD: Drang Armor",
+                "visibility_rules": ["armors"],
                 "sections": [
                     {
                         "name": "CD: Drang Armor",
@@ -1726,6 +1857,7 @@
             },
             {
                 "name": "CD: Drang Gauntlets",
+                "visibility_rules": ["armors"],
                 "sections": [
                     {
                         "name": "CD: Drang Gauntlets",
@@ -1742,6 +1874,7 @@
             },
             {
                 "name": "CD: Drang Shoes",
+                "visibility_rules": ["armors"],
                 "sections": [
                     {
                         "name": "CD: Drang Shoes",
@@ -1758,6 +1891,7 @@
             },
             {
                 "name": "CD: Drang Hammers",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "CD: Drang Hammers",
@@ -1774,6 +1908,7 @@
             },
             {
                 "name": "CD: Deep Ring",
+                "visibility_rules": ["rings"],
                 "sections": [
                     {
                         "name": "CD: Deep Ring",
@@ -1798,18 +1933,22 @@
                 "sections": [
                     {
                         "name": "CD: Small Doll",
+                        "visibility_rules": ["keyitem"],
                         "item_count": 1
                     },
                     {
                         "name": "CD: Archdeacon White Crown",
+                        "visibility_rules": ["armors"],
                         "item_count": 1
                     },
                     {
                         "name": "CD: Archdeacon Holy Garb",
+                        "visibility_rules": ["armors"],
                         "item_count": 1
                     },
                     {
                         "name": "CD: Archdeacon Skirt",
+                        "visibility_rules": ["armors"],
                         "item_count": 1
                     }
                 ],
@@ -1817,12 +1956,13 @@
                     {
                         "map": "CD",
                         "x": 1838,
-                        "y": 801
+                        "y": 780
                     }
                 ]
             },
             {
                 "name": "CD: Arbalest",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "CD: Arbalest",
@@ -1839,6 +1979,7 @@
             },
             {
                 "name": "CD: Soul of the Deacons of the Deep",
+                "visibility_rules": ["boss"],
                 "sections": [
                     {
                         "name": "CD: Soul of the Deacons of the Deep",
@@ -1855,6 +1996,7 @@
             },
             {
                 "name": "CD: Rosaria's Fingers Covenant",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "CD: Rosaria's Fingers Covenant",
@@ -1877,6 +2019,7 @@
         "children": [
             {
                 "name": "FK: Ragged Mask",
+                "visibility_rules": ["armors"],
                 "sections": [
                     {
                         "name": "FK: Ragged Mask",
@@ -1893,6 +2036,7 @@
             },
             {
                 "name": "FK: Iron Flesh",
+                "visibility_rules": ["spells"],
                 "sections": [
                     {
                         "name": "FK: Iron Flesh",
@@ -1909,6 +2053,7 @@
             },
             {
                 "name": "FK: Golden Scroll",
+                "visibility_rules": ["misc"],
                 "sections": [
                     {
                         "name": "FK: Golden Scroll",
@@ -1925,6 +2070,7 @@
             },
             {
                 "name": "FK: Antiquated Armor Set",
+                "visibility_rules": ["armors"],
                 "sections": [
                     {
                         "name": "FK: Antiquated Dress",
@@ -1949,6 +2095,7 @@
             },
             {
                 "name": "FK: Nameless Knight Set",
+                "visibility_rules": ["armors"],
                 "sections": [
                     {
                         "name": "FK: Nameless Knight Helm",
@@ -1977,6 +2124,7 @@
             },
             {
                 "name": "FK: Sunlight Talisman",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "FK: Sunlight Talisman",
@@ -1993,6 +2141,7 @@
             },
             {
                 "name": "FK: Wolf's Blood Swordgrass",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "FK: Wolf's Blood Swordgrass",
@@ -2009,6 +2158,7 @@
             },
             {
                 "name": "FK: Greatsword",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "FK: Greatsword",
@@ -2025,6 +2175,7 @@
             },
             {
                 "name": "FK: Sage's Coal",
+                "visibility_rules": ["misc"],
                 "sections": [
                     {
                         "name": "FK: Sage's Coal",
@@ -2041,6 +2192,7 @@
             },
             {
                 "name": "FK: Stone Parma",
+                "visibility_rules": ["shields"],
                 "sections": [
                     {
                         "name": "FK: Stone Parma",
@@ -2057,6 +2209,7 @@
             },
             {
                 "name": "FK: Sage's Scroll",
+                "visibility_rules": ["misc"],
                 "sections": [
                     {
                         "name": "FK: Sage's Scroll",
@@ -2073,6 +2226,7 @@
             },
             {
                 "name": "FK: Crown of Dusk",
+                "visibility_rules": ["armors"],
                 "sections": [
                     {
                         "name": "FK: Crown of Dusk",
@@ -2089,6 +2243,7 @@
             },
             {
                 "name": "FK: Lingering Dragoncrest Ring",
+                "visibility_rules": ["rings"],
                 "sections": [
                     {
                         "name": "FK: Lingering Dragoncrest Ring",
@@ -2108,10 +2263,12 @@
                 "sections": [
                     {
                         "name": "FK: Pharis's Hat",
+                        "visibility_rules": ["armors"],
                         "item_count": 1
                     },
                     {
                         "name": "FK: Black Bow of Pharis",
+                        "visibility_rules": ["weapons"],
                         "item_count": 1
                     }
                 ],
@@ -2125,6 +2282,7 @@
             },
             {
                 "name": "FK: Watchdogs of Farron Covenant",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "FK: Watchdogs of Farron Covenant",
@@ -2141,6 +2299,7 @@
             },
             {
                 "name": "FK: Dreamchaser's Ashes",
+                "visibility_rules": ["misc"],
                 "sections": [
                     {
                         "name": "FK: Dreamchaser's Ashes",
@@ -2157,6 +2316,7 @@
             },
             {
                 "name": "FK: Great Axe",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "FK: Great Axe",
@@ -2173,6 +2333,7 @@
             },
             {
                 "name": "FK: Dragon Crest Shield",
+                "visibility_rules": ["shields"],
                 "sections": [
                     {
                         "name": "FK: Dragon Crest Shield",
@@ -2189,6 +2350,7 @@
             },
             {
                 "name": "FK: Lightning Spear",
+                "visibility_rules": ["spells"],
                 "sections": [
                     {
                         "name": "FK: Lightning Spear",
@@ -2205,6 +2367,7 @@
             },
             {
                 "name": "FK: Atonement",
+                "visibility_rules": ["spells"],
                 "sections": [
                     {
                         "name": "FK: Atonement",
@@ -2221,6 +2384,7 @@
             },
             {
                 "name": "FK: Great Magic Weapon",
+                "visibility_rules": ["spells"],
                 "sections": [
                     {
                         "name": "FK: Great Magic Weapon",
@@ -2240,10 +2404,12 @@
                 "sections": [
                     {
                         "name": "FK: Cinders of a Lord - Abyss Watchers",
+                        "visibility_rules": ["keyitem"],
                         "item_count": 1
                     },
                     {
                         "name": "FK: Soul of the Blood of the Wolf",
+                        "visibility_rules": ["boss"],
                         "item_count": 1
                     }
                 ],
@@ -2257,6 +2423,7 @@
             },
             {
                 "name": "FK: Soul of a Stray Demon",
+                "visibility_rules": ["boss"],
                 "sections": [
                     {
                         "name": "FK: Soul of a Stray Demon",
@@ -2279,6 +2446,7 @@
         "children": [
             {
                 "name": "CC: Carthus Pyromancy Tome",
+                "visibility_rules": ["misc"],
                 "sections": [
                     {
                         "name": "CC: Carthus Pyromancy Tome",
@@ -2295,6 +2463,7 @@
             },
             {
                 "name": "CC: Carthus Milkring",
+                "visibility_rules": ["rings"],
                 "sections": [
                     {
                         "name": "CC: Carthus Milkring",
@@ -2311,6 +2480,7 @@
             },
             {
                 "name": "CC: Grave Warden's Ashes",
+                "visibility_rules": ["misc"],
                 "sections": [
                     {
                         "name": "CC: Grave Warden's Ashes",
@@ -2327,6 +2497,7 @@
             },
             {
                 "name": "CC: Carthus Bloodring",
+                "visibility_rules": ["rings"],
                 "sections": [
                     {
                         "name": "CC: Carthus Bloodring",
@@ -2343,6 +2514,7 @@
             },
             {
                 "name": "CC: Grave Warden Pyromancy Tome",
+                "visibility_rules": ["misc"],
                 "sections": [
                     {
                         "name": "CC: Grave Warden Pyromancy Tome",
@@ -2362,10 +2534,12 @@
                 "sections": [
                     {
                         "name": "CC: Old Sage's Blindfold",
+                        "visibility_rules": ["armors"],
                         "item_count": 1
                     },
                     {
                         "name": "CC: Witch's Ring",
+                        "visibility_rules": ["rings"],
                         "item_count": 1
                     }
                 ],
@@ -2379,6 +2553,7 @@
             },
             {
                 "name": "CC: Black Blade",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "CC: Black Blade",
@@ -2395,6 +2570,7 @@
             },
             {
                 "name": "CC: Soul of High Lord Wolnir",
+                "visibility_rules": ["boss"],
                 "sections": [
                     {
                         "name": "CC: Soul of High Lord Wolnir",
@@ -2411,6 +2587,7 @@
             },
             {
                 "name": "CC: Soul of a Demon",
+                "visibility_rules": ["boss"],
                 "sections": [
                     {
                         "name": "CC: Soul of a Demon",
@@ -2433,6 +2610,7 @@
         "children": [
             {
                 "name": "SL: Shield of Want",
+                "visibility_rules": ["shields"],
                 "sections": [
                     {
                         "name": "SL: Shield of Want",
@@ -2449,6 +2627,7 @@
             },
             {
                 "name": "SL: Speckled Stoneplate Ring",
+                "visibility_rules": ["rings"],
                 "sections": [
                     {
                         "name": "SL: Speckled Stoneplate Ring",
@@ -2465,6 +2644,7 @@
             },
             {
                 "name": "SL: Dragonrider Bow",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "SL: Dragonrider Bow",
@@ -2481,6 +2661,7 @@
             },
             {
                 "name": "SL: Lightning Stake",
+                "visibility_rules": ["spells"],
                 "sections": [
                     {
                         "name": "SL: Lightning Stake",
@@ -2497,6 +2678,7 @@
             },
             {
                 "name": "SL: Izalith Pyromancy Tome",
+                "visibility_rules": ["misc"],
                 "sections": [
                     {
                         "name": "SL: Izalith Pyromancy Tome",
@@ -2513,6 +2695,7 @@
             },
             {
                 "name": "SL: Black Knight Sword",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "SL: Black Knight Sword",
@@ -2529,6 +2712,7 @@
             },
             {
                 "name": "SL: Quelana Pyromancy Tome",
+                "visibility_rules": ["misc"],
                 "sections": [
                     {
                         "name": "SL: Quelana Pyromancy Tome",
@@ -2545,6 +2729,7 @@
             },
             {
                 "name": "SL: Toxic Mist",
+                "visibility_rules": ["spells"],
                 "sections": [
                     {
                         "name": "SL: Toxic Mist",
@@ -2561,6 +2746,7 @@
             },
             {
                 "name": "SL: White Hair Talisman",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "SL: White Hair Talisman",
@@ -2577,6 +2763,7 @@
             },
             {
                 "name": "SL: Izalith Staff",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "SL: Izalith Staff",
@@ -2593,6 +2780,7 @@
             },
             {
                 "name": "SL: Sacred Flame",
+                "visibility_rules": ["spells"],
                 "sections": [
                     {
                         "name": "SL: Sacred Flame",
@@ -2612,14 +2800,17 @@
                 "sections": [
                     {
                         "name": "SL: Fume Ultra Greatsword",
+                        "visibility_rules": ["weapons"],
                         "item_count": 1
                     },
                     {
                         "name": "SL: Black Iron Greatshield",
+                        "visibility_rules": ["shields"],
                         "item_count": 1
                     },
                     {
                         "name": "SL: Knight Slayer's Ring",
+                        "visibility_rules": ["rings"],
                         "item_count": 1
                     }
                 ],
@@ -2633,6 +2824,7 @@
             },
             {
                 "name": "SL: Soul of the Old Demon King",
+                "visibility_rules": ["boss"],
                 "sections": [
                     {
                         "name": "SL: Soul of the Old Demon King",
@@ -2655,6 +2847,7 @@
         "children": [
             {
                 "name": "IBV: Pontiff's Right Eye",
+                "visibility_rules": ["rings"],
                 "sections": [
                     {
                         "name": "IBV: Pontiff's Right Eye",
@@ -2677,6 +2870,7 @@
         "children": [
             {
                 "name": "IBV: Dorhys' Gnawing",
+                "visibility_rules": ["spells"],
                 "sections": [
                     {
                         "name": "IBV: Dorhys' Gnawing",
@@ -2686,13 +2880,14 @@
                 "map_locations": [
                     {
                         "map": "IBV",
-                        "x": 484,
-                        "y": 498
+                        "x": 480,
+                        "y": 495
                     }
                 ]
             },
             {
                 "name": "IBV: Witchtree Branch",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "IBV: Witchtree Branch",
@@ -2709,6 +2904,7 @@
             },
             {
                 "name": "IBV: Magic Clutch Ring",
+                "visibility_rules": ["rings"],
                 "sections": [
                     {
                         "name": "IBV: Magic Clutch Ring",
@@ -2730,6 +2926,7 @@
             },
             {
                 "name": "IBV: Ring of the Sun's First Born",
+                "visibility_rules": ["rings"],
                 "sections": [
                     {
                         "name": "IBV: Ring of the Sun's First Born",
@@ -2751,6 +2948,7 @@
             },
             {
                 "name": "IBV: Roster of Knights",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "IBV: Roster of Knights",
@@ -2767,6 +2965,7 @@
             },
             {
                 "name": "IBV: Yorshka's Spear",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "IBV: Yorshka's Spear",
@@ -2783,6 +2982,7 @@
             },
             {
                 "name": "IBV: Great Heal",
+                "visibility_rules": ["spells"],
                 "sections": [
                     {
                         "name": "IBV: Great Heal",
@@ -2802,10 +3002,12 @@
                 "sections": [
                     {
                         "name": "IBV: Smough's Great Hammer",
+                        "visibility_rules": ["weapons"],
                         "item_count": 1
                     },
                     {
                         "name": "IBV: Leo Ring",
+                        "visibility_rules": ["rings"],
                         "item_count": 1
                     }
                 ],
@@ -2819,6 +3021,7 @@
             },
             {
                 "name": "IBV: Excrement-covered Ashes",
+                "visibility_rules": ["misc"],
                 "sections": [
                     {
                         "name": "IBV: Excrement-covered Ashes",
@@ -2835,6 +3038,7 @@
             },
             {
                 "name": "IBV: Dark Stoneplate Ring",
+                "visibility_rules": ["rings"],
                 "sections": [
                     {
                         "name": "IBV: Dark Stoneplate Ring",
@@ -2851,6 +3055,7 @@
             },
             {
                 "name": "IBV: Easterner's Ashes",
+                "visibility_rules": ["misc"],
                 "sections": [
                     {
                         "name": "IBV: Easterner's Ashes",
@@ -2867,6 +3072,7 @@
             },
             {
                 "name": "IBV: Painting Guardian's Curved Sword",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "IBV: Painting Guardian's Curved Sword",
@@ -2883,6 +3089,7 @@
             },
             {
                 "name": "IBV: Painting Guardian Set",
+                "visibility_rules": ["armors"],
                 "sections": [
                     {
                         "name": "IBV: Painting Guardian Hood",
@@ -2911,6 +3118,7 @@
             },
             {
                 "name": "IBV: Dragonslayer Greatbow",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "IBV: Dragonslayer Greatbow",
@@ -2927,6 +3135,7 @@
             },
             {
                 "name": "IBV: Reversal Ring",
+                "visibility_rules": ["rings"],
                 "sections": [
                     {
                         "name": "IBV: Reversal Ring",
@@ -2943,6 +3152,7 @@
             },
             {
                 "name": "IBV: Brass Set",
+                "visibility_rules": ["armors"],
                 "sections": [
                     {
                         "name": "IBV: Brass Helm",
@@ -2971,6 +3181,7 @@
             },
             {
                 "name": "IBV: Ring of Favor",
+                "visibility_rules": ["rings"],
                 "sections": [
                     {
                         "name": "IBV: Ring of Favor",
@@ -2987,6 +3198,7 @@
             },
             {
                 "name": "IBV: Golden Ritual Spear",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "IBV: Golden Ritual Spear",
@@ -3003,6 +3215,7 @@
             },
             {
                 "name": "IBV: Soul of Pontiff Sulyvahn",
+                "visibility_rules": ["boss"],
                 "sections": [
                     {
                         "name": "IBV: Soul of Pontiff Sulyvahn",
@@ -3019,6 +3232,7 @@
             },
             {
                 "name": "IBV: Aldrich Faithful Covenant",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "IBV: Aldrich Faithful Covenant",
@@ -3038,6 +3252,7 @@
                 "sections": [
                     {
                         "name": "IBV: Drang Twinspears",
+                        "visibility_rules": ["weapons"],
                         "item_count": 1
                     }
                 ],
@@ -3057,6 +3272,7 @@
         "children": [
             {
                 "name": "AL: Giant's Coal",
+                "visibility_rules": ["misc"],
                 "sections": [
                     {
                         "name": "AL: Giant's Coal",
@@ -3073,6 +3289,7 @@
             },
             {
                 "name": "AL: Sun Princess Ring",
+                "visibility_rules": ["rings"],
                 "sections": [
                     {
                         "name": "AL: Sun Princess Ring",
@@ -3089,6 +3306,7 @@
             },
             {
                 "name": "AL: Aldrich's Ruby",
+                "visibility_rules": ["rings"],
                 "sections": [
                     {
                         "name": "AL: Aldrich's Ruby",
@@ -3108,10 +3326,12 @@
                 "sections": [
                     {
                         "name": "AL: Cinders of a Lord - Aldrich",
+                        "visibility_rules": ["keyitem"],
                         "item_count": 1
                     },
                     {
                         "name": "AL: Soul of Aldrich",
+                        "visibility_rules": ["boss"],
                         "hosted_item": "aldrich_s",
                         "item_count": 1
                     }
@@ -3132,6 +3352,7 @@
         "children": [
             {
                 "name": "ID: Bellowing Dragoncrest Ring",
+                "visibility_rules": ["rings"],
                 "access_rules": ["jailbreaker"],
                 "sections": [
                     {
@@ -3149,6 +3370,7 @@
             },
             {
                 "name": "ID: Jailbreaker's Key",
+                "visibility_rules": ["keyitem"],
                 "sections": [
                     {
                         "name": "ID: Jailbreaker's Key",
@@ -3165,6 +3387,7 @@
             },
             {
                 "name": "ID: Prisoner Chief's Ashes",
+                "visibility_rules": ["keyitem"],
                 "access_rules": ["jailring"],
                 "sections": [
                     {
@@ -3182,6 +3405,7 @@
             },
             {
                 "name": "ID: Old Sorcerer Set",
+                "visibility_rules": ["armors"],
                 "sections": [
                     {
                         "name": "ID: Old Sorcerer Hat",
@@ -3210,6 +3434,7 @@
             },
             {
                 "name": "ID: Great Magic Shield",
+                "visibility_rules": ["spells"],
                 "sections": [
                     {
                         "name": "ID: Great Magic Shield",
@@ -3226,6 +3451,7 @@
             },
             {
                 "name": "ID: Dragon Torso Stone",
+                "visibility_rules": ["misc"],
                 "sections": [
                     {
                         "name": "ID: Dragon Torso Stone",
@@ -3242,6 +3468,7 @@
             },
             {
                 "name": "ID: Lightning Blade",
+                "visibility_rules": ["spells"],
                 "sections": [
                     {
                         "name": "ID: Lightning Blade",
@@ -3258,6 +3485,7 @@
             },
             {
                 "name": "ID: Profaned Coal",
+                "visibility_rules": ["misc"],
                 "sections": [
                     {
                         "name": "ID: Profaned Coal",
@@ -3274,6 +3502,7 @@
             },
             {
                 "name": "ID: Xanthous Ashes",
+                "visibility_rules": ["misc"],
                 "sections": [
                     {
                         "name": "ID: Xanthous Ashes",
@@ -3293,10 +3522,12 @@
                 "sections": [
                     {
                         "name": "ID: Old Cell Key",
+                        "visibility_rules": ["keyitem"],
                         "item_count": 1
                     },
                     {
                         "name": "ID: Dark Clutch Ring",
+                        "visibility_rules": ["rings"],
                         "item_count": 1
                     }
                 ],
@@ -3310,6 +3541,7 @@
             },
             {
                 "name": "ID: Pickaxe",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "ID: Pickaxe",
@@ -3326,6 +3558,7 @@
             },
             {
                 "name": "ID: Profaned Flame",
+                "visibility_rules": ["spells"],
                 "sections": [
                     {
                         "name": "ID: Profaned Flame",
@@ -3342,6 +3575,7 @@
             },
             {
                 "name": "ID: Covetous Gold Serpent Ring",
+                "visibility_rules": ["rings"],
                 "access_rules": ["oldcell"],
                 "sections": [
                     {
@@ -3364,6 +3598,7 @@
             },
             {
                 "name": "ID: Jailer's Key Ring",
+                "visibility_rules": ["keyitem"],
                 "sections": [
                     {
                         "name": "ID: Jailer's Key Ring",
@@ -3385,6 +3620,7 @@
             },
             {
                 "name": "ID: Dusk Crown Ring",
+                "visibility_rules": ["rings"],
                 "sections": [
                     {
                         "name": "ID: Dusk Crown Ring",
@@ -3401,10 +3637,27 @@
             },
             {
                 "name": "ID: Karla's Ashes",
+                "visibility_rules": ["npcs"],
                 "access_rules": ["jailring"],
                 "sections": [
                     {
                         "name": "ID: Karla's Ashes",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "ID: Karla's Pointed Hat",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "ID: Karla's Coat",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "ID: Karla's Gloves",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "ID: Karla's Trousers",
                         "item_count": 1
                     }
                 ],
@@ -3424,6 +3677,7 @@
         "children": [
             {
                 "name": "PC: Cursebite Ring",
+                "visibility_rules": ["rings"],
                 "sections": [
                     {
                         "name": "PC: Cursebite Ring",
@@ -3443,22 +3697,27 @@
                 "sections": [
                     {
                         "name": "PC: Court Sorcerer Hood",
+                        "visibility_rules": ["armors"],
                         "item_count": 1
                     },
                     {
                         "name": "PC: Court Sorcerer Robe",
+                        "visibility_rules": ["armors"],
                         "item_count": 1
                     },
                     {
                         "name": "PC: Court Sorcerer Gloves",
+                        "visibility_rules": ["armors"],
                         "item_count": 1
                     },
                     {
                         "name": "PC: Court Sorcerer Trousers",
+                        "visibility_rules": ["armors"],
                         "item_count": 1
                     },
                     {
                         "name": "PC: Wrath of the Gods",
+                        "visibility_rules": ["spells"],
                         "item_count": 1
                     }
                 ],
@@ -3472,6 +3731,7 @@
             },
             {
                 "name": "PC: Logan's Scroll",
+                "visibility_rules": ["misc"],
                 "sections": [
                     {
                         "name": "PC: Logan's Scroll",
@@ -3488,6 +3748,7 @@
             },
             {
                 "name": "PC: Eleonora",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "PC: Eleonora",
@@ -3504,6 +3765,7 @@
             },
             {
                 "name": "PC: Court Sorcerer's Staff",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "PC: Court Sorcerer's Staff",
@@ -3520,6 +3782,7 @@
             },
             {
                 "name": "PC: Greatshield of Glory",
+                "visibility_rules": ["shields"],
                 "sections": [
                     {
                         "name": "PC: Greatshield of Glory",
@@ -3536,6 +3799,7 @@
             },
             {
                 "name": "PC: Storm Ruler",
+                "visibility_rules": ["keyitem"],
                 "sections": [
                     {
                         "name": "PC: Storm Ruler",
@@ -3556,10 +3820,12 @@
                 "sections": [
                     {
                         "name": "Cinders of a Lord - Yhorm the Giant",
+                        "visibility_rules": ["keyitem"],
                         "item_count": 1
                     },
                     {
                         "name": "Soul of Yhorm the Giant",
+                        "visibility_rules": ["boss"],
                         "hosted_item": "yhorm_s",
                         "item_count": 1
                     }
@@ -3580,6 +3846,7 @@
         "children": [
             {
                 "name": "CKG: Dragonscale Ring",
+                "visibility_rules": ["rings"],
                 "sections": [
                     {
                         "name": "CKG: Dragonscale Ring",
@@ -3596,6 +3863,7 @@
             },
             {
                 "name": "CKG: Shadow Set",
+                "visibility_rules": ["armors"],
                 "sections": [
                     {
                         "name": "CKG: Shadow Mask",
@@ -3624,6 +3892,7 @@
             },
             {
                 "name": "CKG: Claw",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "CKG: Claw",
@@ -3657,6 +3926,7 @@
             },
             {
                 "name": "CKG: Soul of Consumed Oceiros",
+                "visibility_rules": ["boss"],
                 "sections": [
                     {
                         "name": "CKG: Soul of Consumed Oceiros",
@@ -3673,6 +3943,7 @@
             },
             {
                 "name": "CKG: Magic Stoneplate Ring",
+                "visibility_rules": ["rings"],
                 "sections": [
                     {
                         "name": "CKG: Magic Stoneplate Ring",
@@ -3695,6 +3966,7 @@
         "children": [
             {
                 "name": "UG: Ashen Estus Ring",
+                "visibility_rules": ["rings"],
                 "sections": [
                     {
                         "name": "UG: Ashen Estus Ring",
@@ -3711,6 +3983,7 @@
             },
             {
                 "name": "UG: Black Knight Glaive",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "UG: Black Knight Glaive",
@@ -3727,6 +4000,7 @@
             },
             {
                 "name": "UG: Hornet Ring",
+                "visibility_rules": ["rings"],
                 "sections": [
                     {
                         "name": "UG: Hornet Ring",
@@ -3743,6 +4017,7 @@
             },
             {
                 "name": "UG: Chaos Blade",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "UG: Chaos Blade",
@@ -3759,6 +4034,7 @@
             },
             {
                 "name": "UG: Blacksmith Hammer",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "UG: Blacksmith Hammer",
@@ -3775,6 +4051,7 @@
             },
             {
                 "name": "UG: Eyes of a Fire Keeper",
+                "visibility_rules": ["keyitem"],
                 "sections": [
                     {
                         "name": "UG: Eyes of a Fire Keeper",
@@ -3791,6 +4068,7 @@
             },
             {
                 "name": "UG: Coiled Sword Fragment",
+                "visibility_rules": ["misc"],
                 "sections": [
                     {
                         "name": "UG: Coiled Sword Fragment",
@@ -3807,6 +4085,7 @@
             },
             {
                 "name": "UG: Soul of Champion Gundyr",
+                "visibility_rules": ["boss"],
                 "sections": [
                     {
                         "name": "UG: Soul of Champion Gundyr",
@@ -3829,6 +4108,7 @@
         "children": [
             {
                 "name": "LC: Prayer Set",
+                "visibility_rules": ["armors"],
                 "sections": [
                     {
                         "name": "LC: Hood of Prayer",
@@ -3853,6 +4133,7 @@
             },
             {
                 "name": "LC: Sacred Bloom Shield",
+                "visibility_rules": ["shields"],
                 "sections": [
                     {
                         "name": "LC: Sacred Bloom Shield",
@@ -3869,6 +4150,7 @@
             },
             {
                 "name": "LC: Winged Knight Set",
+                "visibility_rules": ["armors"],
                 "sections": [
                     {
                         "name": "LC: Winged Knight Helm",
@@ -3897,6 +4179,7 @@
             },
             {
                 "name": "LC: Greatlance",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "LC: Greatlance",
@@ -3913,6 +4196,7 @@
             },
             {
                 "name": "LC: Sniper Crossbow",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "LC: Sniper Crossbow",
@@ -3932,10 +4216,12 @@
                 "sections": [
                     {
                         "name": "LC: Spirit Tree Crest Shield",
+                        "visibility_rules": ["shields"],
                         "item_count": 1
                     },
                     {
                         "name": "LC: Irithyll Rapier",
+                        "visibility_rules": ["weapons"],
                         "item_count": 1
                     }
                 ],
@@ -3949,6 +4235,7 @@
             },
             {
                 "name": "LC: Red Tearstone Ring",
+                "visibility_rules": ["rings"],
                 "sections": [
                     {
                         "name": "LC: Red Tearstone Ring",
@@ -3965,6 +4252,7 @@
             },
             {
                 "name": "LC: Caitha's Chime",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "LC: Caitha's Chime",
@@ -3981,6 +4269,7 @@
             },
             {
                 "name": "LC: Braille Divine Tome of Lothric",
+                "visibility_rules": ["misc"],
                 "sections": [
                     {
                         "name": "LC: Braille Divine Tome of Lothric",
@@ -3997,6 +4286,7 @@
             },
             {
                 "name": "LC: Knight's Ring",
+                "visibility_rules": ["rings"],
                 "sections": [
                     {
                         "name": "LC: Knight's Ring",
@@ -4013,6 +4303,7 @@
             },
             {
                 "name": "LC: Sunlight Straight Sword",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "LC: Sunlight Straight Sword",
@@ -4033,10 +4324,12 @@
                 "sections": [
                     {
                         "name": "LC: Grand Archives Key",
+                        "visibility_rules": ["keyitem"],
                         "item_count": 1
                     },
                     {
                         "name": "LC: Gotthard Twinswords",
+                        "visibility_rules": ["weapons"],
                         "item_count": 1
                     }
                 ],
@@ -4055,6 +4348,7 @@
             },
             {
                 "name": "LC: Soul of Dragonslayer Armour",
+                "visibility_rules": ["boss"],
                 "sections": [
                     {
                         "name": "LC: Soul of Dragonslayer Armour",
@@ -4071,6 +4365,7 @@
             },
             {
                 "name": "LC: Irithyll Rapier",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "LC: Irithyll Rapier",
@@ -4093,6 +4388,7 @@
         "children": [
             {
                 "name": "GA: Avelyn",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "GA: Avelyn",
@@ -4112,10 +4408,12 @@
                 "sections": [
                     {
                         "name": "GA: Witch's Locks",
+                        "visibility_rules": ["weapons"],
                         "item_count": 1
                     },
                     {
                         "name": "GA: Power Within",
+                        "visibility_rules": ["spells"],
                         "item_count": 1
                     }
                 ],
@@ -4132,6 +4430,7 @@
                 "sections": [
                     {
                         "name": "GA: Scholar Ring",
+                        "visibility_rules": ["rings"],
                         "item_count": 1
                     }
                 ],
@@ -4145,6 +4444,7 @@
             },
             {
                 "name": "GA: Soul Stream",
+                "visibility_rules": ["spells"],
                 "sections": [
                     {
                         "name": "GA: Soul Stream",
@@ -4161,6 +4461,7 @@
             },
             {
                 "name": "GA: Fleshbite Ring",
+                "visibility_rules": ["rings"],
                 "sections": [
                     {
                         "name": "GA: Fleshbite Ring",
@@ -4177,6 +4478,7 @@
             },
             {
                 "name": "GA: Crystal Chime",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "GA: Crystal Chime",
@@ -4196,14 +4498,17 @@
                 "sections": [
                     {
                         "name": "GA: Golden Wing Crest Shield",
+                        "visibility_rules": ["shields"],
                         "item_count": 1
                     },
                     {
                         "name": "GA: Onikiri and Ubadachi",
+                        "visibility_rules": ["weapons"],
                         "item_count": 1
                     },
                     {
                         "name": "GA: Sage's Crystal Staff",
+                        "visibility_rules": ["weapons"],
                         "item_count": 1
                     }
                 ],
@@ -4217,6 +4522,7 @@
             },
             {
                 "name": "GA: Hunter's Ring",
+                "visibility_rules": ["rings"],
                 "sections": [
                     {
                         "name": "GA: Hunter's Ring",
@@ -4233,6 +4539,7 @@
             },
             {
                 "name": "GA: Divine Pillars of Light",
+                "visibility_rules": ["spells"],
                 "sections": [
                     {
                         "name": "GA: Divine Pillars of Light",
@@ -4252,10 +4559,12 @@
                 "sections": [
                     {
                         "name": "GA: Cinders of a Lord - Lothric Prince",
+                        "visibility_rules": ["keyitem"],
                         "item_count": 1
                     },
                     {
                         "name": "GA: Soul of the Twin Princes",
+                        "visibility_rules": ["boss"],
                         "item_count": 1
                     }
                 ],
@@ -4269,6 +4578,7 @@
             },
             {
                 "name": "GA: Outrider Knight Set",
+                "visibility_rules": ["armors"],
                 "sections": [
                     {
                         "name": "GA: Outrider Knight Helm",
@@ -4294,6 +4604,23 @@
                         "y": 345
                     }
                 ]
+            },
+            {
+                "name": "GA: Crystal Scroll (Kill the Crystal Sage)",
+                "visibility_rules": ["spells"],
+                "sections": [
+                    {
+                        "name": "GA: Crystal Scroll",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "GA",
+                        "x": 439,
+                        "y": 216
+                    }
+                ]
             }
         ]
     },
@@ -4303,6 +4630,7 @@
         "children": [
             {
                 "name": "AP: Lightning Clutch Ring",
+                "visibility_rules": ["rings"],
                 "sections": [
                     {
                         "name": "AP: Lightning Clutch Ring",
@@ -4319,6 +4647,7 @@
             },
             {
                 "name": "AP: Ancient Dragon Greatshield",
+                "visibility_rules": ["shields"],
                 "sections": [
                     {
                         "name": "AP: Ancient Dragon Greatshield",
@@ -4335,6 +4664,7 @@
             },
             {
                 "name": "AP: Ring of Steel Protection",
+                "visibility_rules": ["rings"],
                 "sections": [
                     {
                         "name": "AP: Ring of Steel Protection",
@@ -4351,6 +4681,7 @@
             },
             {
                 "name": "AP: Calamity Ring (use POTG)",
+                "visibility_rules": ["rings"],
                 "sections": [
                     {
                         "name": "AP: Calamity Ring",
@@ -4367,6 +4698,7 @@
             },
             {
                 "name": "AP: Drakeblood Greatsword",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "AP: Drakeblood Greatsword",
@@ -4383,6 +4715,7 @@
             },
             {
                 "name": "AP: Dragonslayer Spear",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "AP: Dragonslayer Spear",
@@ -4399,6 +4732,7 @@
             },
             {
                 "name": "AP: Thunder Stoneplate Ring",
+                "visibility_rules": ["rings"],
                 "sections": [
                     {
                         "name": "AP: Thunder Stoneplate Ring",
@@ -4415,6 +4749,7 @@
             },
             {
                 "name": "AP: Great Magic Barrier",
+                "visibility_rules": ["spells"],
                 "sections": [
                     {
                         "name": "AP: Great Magic Barrier",
@@ -4431,6 +4766,7 @@
             },
             {
                 "name": "AP: Dragon Chaser's Ashes",
+                "visibility_rules": ["misc"],
                 "sections": [
                     {
                         "name": "AP: Dragon Chaser's Ashes",
@@ -4447,6 +4783,7 @@
             },
             {
                 "name": "AP: Twinkling Dragon Torso Stone",
+                "visibility_rules": ["misc"],
                 "sections": [
                     {
                         "name": "AP: Twinkling Dragon Torso Stone",
@@ -4463,6 +4800,7 @@
             },
             {
                 "name": "AP: Dragonslayer Set",
+                "visibility_rules": ["armors"],
                 "sections": [
                     {
                         "name": "AP: Dragonslayer Helm",
@@ -4491,6 +4829,7 @@
             },
             {
                 "name": "AP: Ricard's Rapier",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "AP: Ricard's Rapier",
@@ -4510,10 +4849,12 @@
                 "sections": [
                     {
                         "name": "AP: Dragon Tooth",
+                        "visibility_rules": ["weapons"],
                         "item_count": 1
                     },
                     {
                         "name": "AP: Havel's Greatshield",
+                        "visibility_rules": ["shields"],
                         "item_count": 1
                     }
                 ],
@@ -4527,6 +4868,7 @@
             },
             {
                 "name": "AP: Soul of the Nameless King",
+                "visibility_rules": ["boss"],
                 "sections": [
                     {
                         "name": "AP: Soul of the Nameless King",
@@ -4545,10 +4887,11 @@
     },
     {
         "name": "Painted World of Ariandel",
-        "access_rules": ["contraptionkey,banner"],
+        "access_rules": ["banner"],
         "children": [
             {
                 "name": "PW: Follower Javelin",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "PW: Follower Javelin",
@@ -4565,6 +4908,7 @@
             },
             {
                 "name": "PW: Frozen Weapon",
+                "visibility_rules": ["spells"],
                 "sections": [
                     {
                         "name": "PW: Frozen Weapon",
@@ -4581,6 +4925,7 @@
             },
             {
                 "name": "PW: Millwood Greatbow",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "PW: Millwood Greatbow",
@@ -4597,6 +4942,7 @@
             },
             {
                 "name": "PW: Captains Ashes",
+                "visibility_rules": ["misc"],
                 "sections": [
                     {
                         "name": "PW: Captains Ashes",
@@ -4613,6 +4959,7 @@
             },
             {
                 "name": "PW: Millwood Battle Axe",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "PW: Millwood Battle Axe",
@@ -4629,6 +4976,7 @@
             },
             {
                 "name": "PW: Ethereal Oak Shield",
+                "visibility_rules": ["shields"],
                 "sections": [
                     {
                         "name": "PW: Ethereal Oak Shield",
@@ -4645,6 +4993,7 @@
             },
             {
                 "name": "PW: Crow Quills",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "PW: Crow Quills",
@@ -4661,6 +5010,7 @@
             },
             {
                 "name": "PW: Slave Knight Set",
+                "visibility_rules": ["armors"],
                 "sections": [
                     {
                         "name": "PW: Slave Knight Hood",
@@ -4689,6 +5039,7 @@
             },
             {
                 "name": "PW: Way of White Corona",
+                "visibility_rules": ["spells"],
                 "sections": [
                     {
                         "name": "PW: Way of White Corona",
@@ -4705,6 +5056,7 @@
             },
             {
                 "name": "PW: Crow Talons",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "PW: Crow Talons",
@@ -4721,6 +5073,8 @@
             },
             {
                 "name": "PW: Quakestone Hammer",
+                "access_rules": ["contraptionkey"],
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "PW: Quakestone Hammer",
@@ -4737,6 +5091,8 @@
             },
             {
                 "name": "PW: Earth Seeker",
+                "access_rules": ["contraptionkey"],
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "PW: Earth Seeker",
@@ -4753,6 +5109,8 @@
             },
             {
                 "name": "PW: Follower Torch",
+                "access_rules": ["contraptionkey"],
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "PW: Follower Torch",
@@ -4769,6 +5127,8 @@
             },
             {
                 "name": "PW: Follower Shield",
+                "access_rules": ["contraptionkey"],
+                "visibility_rules": ["shields"],
                 "sections": [
                     {
                         "name": "PW: Follower Shield",
@@ -4785,6 +5145,8 @@
             },
             {
                 "name": "PW: Follower Sabre",
+                "access_rules": ["contraptionkey"],
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "PW: Follower Sabre",
@@ -4801,6 +5163,8 @@
             },
             {
                 "name": "PW: Snap Freeze",
+                "access_rules": ["contraptionkey"],
+                "visibility_rules": ["spells"],
                 "sections": [
                     {
                         "name": "PW: Snap Freeze",
@@ -4817,6 +5181,8 @@
             },
             {
                 "name": "PW: Floating Chaos",
+                "access_rules": ["contraptionkey"],
+                "visibility_rules": ["spells"],
                 "sections": [
                     {
                         "name": "PW: Floating Chaos",
@@ -4833,6 +5199,8 @@
             },
             {
                 "name": "PW: Pyromancer's Parting Flame",
+                "access_rules": ["contraptionkey"],
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "PW: Pyromancer's Parting Flame",
@@ -4849,6 +5217,8 @@
             },
             {
                 "name": "PW: Vilhelm's Set",
+                "access_rules": ["contraptionkey"],
+                "visibility_rules": ["armors"],
                 "sections": [
                     {
                         "name": "PW: Vilhelm's Helm",
@@ -4877,6 +5247,8 @@
             },
             {
                 "name": "PW: Gravetender Fight",
+                "access_rules": ["contraptionkey"],
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "PW: Valorheart",
@@ -4900,10 +5272,12 @@
                 "sections": [
                     {
                         "name": "PW: Onyx Blade",
+                        "visibility_rules": ["weapons"],
                         "item_count": 1
                     },
                     {
                         "name": "PW: Contraption Key",
+                        "visibility_rules": ["keyitem"],
                         "item_count": 1
                     }
                 ],
@@ -4917,11 +5291,9 @@
             },
             {
                 "name": "PW: Sister Friede",
+                "access_rules": ["contraptionkey"],
+                "visibility_rules": ["boss"],
                 "sections": [
-                    {
-                        "name": "PW: Titanite Slab",
-                        "item_count": 1
-                    },
                     {
                         "name": "PW: Soul of Sister Friede",
                         "item_count": 1
@@ -4937,6 +5309,8 @@
             },
             {
                 "name": "PW: Chillbite Ring",
+                "access_rules": ["contraptionkey"],
+                "visibility_rules": ["rings"],
                 "sections": [
                     {
                         "name": "PW: Chillbite Ring",
@@ -4959,6 +5333,7 @@
         "children": [
             {
                 "name": "DH: Loincloth",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "DH: Loincloth",
@@ -4975,6 +5350,7 @@
             },
             {
                 "name": "DH: Aquamarine Dagger",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "DH: Aquamarine Dagger",
@@ -4991,6 +5367,7 @@
             },
             {
                 "name": "DH: Murky Hand Scythe",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "DH: Murky Hand Scythe",
@@ -5007,6 +5384,7 @@
             },
             {
                 "name": "DH: Murky Longstaff",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "DH: Murky Longstaff",
@@ -5023,6 +5401,7 @@
             },
             {
                 "name": "DH: Great Soul Dregs",
+                "visibility_rules": ["spells"],
                 "sections": [
                     {
                         "name": "DH: Great Soul Dregs",
@@ -5039,6 +5418,7 @@
             },
             {
                 "name": "DH: Lothric War Banner",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "DH: Lothric War Banner",
@@ -5055,6 +5435,7 @@
             },
             {
                 "name": "DH: Projected Heal",
+                "visibility_rules": ["spells"],
                 "sections": [
                     {
                         "name": "DH: Projected Heal",
@@ -5071,6 +5452,7 @@
             },
             {
                 "name": "DH: Desert Pyromancer Hood",
+                "visibility_rules": ["armors"],
                 "sections": [
                     {
                         "name": "DH: Desert Pyromancer Hood",
@@ -5087,6 +5469,7 @@
             },
             {
                 "name": "DH: Desert Pyromancer Garb",
+                "visibility_rules": ["armors"],
                 "sections": [
                     {
                         "name": "DH: Desert Pyromancer Garb",
@@ -5103,6 +5486,7 @@
             },
             {
                 "name": "DH: Desert Pyromancer Gloves",
+                "visibility_rules": ["armors"],
                 "sections": [
                     {
                         "name": "DH: Desert Pyromancer Gloves",
@@ -5119,6 +5503,7 @@
             },
             {
                 "name": "DH: Desert Pyromancer Skirt",
+                "visibility_rules": ["armors"],
                 "sections": [
                     {
                         "name": "DH: Desert Pyromancer Skirt",
@@ -5135,6 +5520,7 @@
             },
             {
                 "name": "DH: Giant Door Shield",
+                "visibility_rules": ["shields"],
                 "sections": [
                     {
                         "name": "DH: Giant Door Shield",
@@ -5151,6 +5537,7 @@
             },
             {
                 "name": "DH: Herald Curved Greatsword",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "DH: Herald Curved Greatsword",
@@ -5167,6 +5554,7 @@
             },
             {
                 "name": "DH: Flame Fan",
+                "visibility_rules": ["spells"],
                 "sections": [
                     {
                         "name": "DH: Flame Fan",
@@ -5186,10 +5574,12 @@
                 "sections": [
                     {
                         "name": "DH: Soul of the Demon Prince",
+                        "visibility_rules": ["boss"],
                         "item_count": 1
                     },
                     {
                         "name": "DH: Small Envoy Banner",
+                        "visibility_rules": ["keyitem"],
                         "item_count": 1
                     }
                 ],
@@ -5198,6 +5588,57 @@
                         "map": "DH",
                         "x": 898,
                         "y": 822
+                    }
+                ]
+            },
+            {
+                "name": "DH: Ring of Favor+3",
+                "visibility_rules": ["rings"],
+                "sections": [
+                    {
+                        "name": "DH: Ring of Favor+3",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DH",
+                        "x": 1550,
+                        "y": 301
+                    }
+                ]
+            },
+            {
+                "name": "DH: Covetous Silver Serpent Ring+3",
+                "visibility_rules": ["rings"],
+                "sections": [
+                    {
+                        "name": "DH: Covetous Silver Serpent Ring+3",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DH",
+                        "x": 749,
+                        "y": 301
+                    }
+                ]
+            },
+            {
+                "name": "DH: Ring of Steel Protection+3",
+                "visibility_rules": ["rings"],
+                "sections": [
+                    {
+                        "name": "RC: Ring of Steel Protection+3",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DH",
+                        "x": 585,
+                        "y": 256
                     }
                 ]
             }
@@ -5209,6 +5650,7 @@
         "children": [
             {
                 "name": "RC: Ruin Set",
+                "visibility_rules": ["armors"],
                 "sections": [
                     {
                         "name": "RC: Ruin Sentinel Helm",
@@ -5237,6 +5679,7 @@
             },
             {
                 "name": "RC: Black Witch Veil",
+                "visibility_rules": ["armors"],
                 "sections": [
                     {
                         "name": "RC: Black Witch Veil",
@@ -5253,6 +5696,7 @@
             },
             {
                 "name": "RC: Black Witch Set",
+                "visibility_rules": ["armors"],
                 "sections": [
                     {
                         "name": "RC: Black Witch Hat",
@@ -5281,6 +5725,7 @@
             },
             {
                 "name": "RC: White Preacher Head",
+                "visibility_rules": ["armors"],
                 "sections": [
                     {
                         "name": "RC: White Preacher Head",
@@ -5296,10 +5741,11 @@
                 ]
             },
             {
-                "name": "RC: Havel's Ring",
+                "name": "RC: Havel's Ring+3",
+                "visibility_rules": ["rings"],
                 "sections": [
                     {
-                        "name": "RC: Havel's Ring",
+                        "name": "RC: Havel's Ring+3",
                         "item_count": 1
                     }
                 ],
@@ -5313,6 +5759,7 @@
             },
             {
                 "name": "RC: Ringed Knight Spear",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "RC: Ringed Knight Spear",
@@ -5329,6 +5776,7 @@
             },
             {
                 "name": "RC: Dragonhead Shield",
+                "visibility_rules": ["shields"],
                 "sections": [
                     {
                         "name": "RC: Dragonhead Shield",
@@ -5345,6 +5793,7 @@
             },
             {
                 "name": "RC: Ringed Knight Straight Sword",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "RC: Ringed Knight Straight Sword",
@@ -5361,6 +5810,7 @@
             },
             {
                 "name": "RC: Preacher's Right Arm",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "RC: Preacher's Right Arm",
@@ -5377,6 +5827,7 @@
             },
             {
                 "name": "RC: White Birch Bow",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "RC: White Birch Bow",
@@ -5393,6 +5844,7 @@
             },
             {
                 "name": "RC: Church Guardian Shiv",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "RC: Church Guardian Shiv",
@@ -5409,6 +5861,7 @@
             },
             {
                 "name": "RC: Dragonhead Greatshield",
+                "visibility_rules": ["shields"],
                 "sections": [
                     {
                         "name": "RC: Dragonhead Greatshield",
@@ -5425,6 +5878,7 @@
             },
             {
                 "name": "RC: Ringed Knight Paired Greatswords",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "RC: Ringed Knight Paired Greatswords",
@@ -5441,6 +5895,7 @@
             },
             {
                 "name": "RC: Shira's Set",
+                "visibility_rules": ["armors"],
                 "access_rules": ["shira"],
                 "sections": [
                     {
@@ -5472,19 +5927,18 @@
                 "name": "RC: Shira Fight",
                 "sections": [
                     {
-                        "name": "RC: Titanite Slab",
-                        "item_count": 1
-                    },
-                    {
                         "name": "RC: Crucifix of the Mad King",
+                        "visibility_rules": ["weapons"],
                         "item_count": 1
                     },
                     {
                         "name": "RC: Sacred Chime of Filianore",
+                        "visibility_rules": ["weapons"],
                         "item_count": 1
                     },
                     {
                         "name": "Shira Defeat",
+                        "visibility_rules": ["armors"],
                         "hosted_item": "shira"
                     }
                 ],
@@ -5514,6 +5968,7 @@
             },
             {
                 "name": "RC: Iron Dragonslayer Set",
+                "visibility_rules": ["armors"],
                 "sections": [
                     {
                         "name": "RC: Iron Dragonslayer Helm",
@@ -5542,6 +5997,7 @@
             },
             {
                 "name": "RC: Lightning Arrow",
+                "visibility_rules": ["spells"],
                 "sections": [
                     {
                         "name": "RC: Lightning Arrow",
@@ -5558,6 +6014,7 @@
             },
             {
                 "name": "RC: Ritual Spear Fragment",
+                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "RC: Ritual Spear Fragment",
@@ -5577,10 +6034,12 @@
                 "sections": [
                     {
                         "name": "RC: Antiquated Plain Garb",
+                        "visibility_rules": ["armors"],
                         "item_count": 1
                     },
                     {
                         "name": "RC: Violet Wrappings",
+                        "visibility_rules": ["weapons"],
                         "item_count": 1
                     }
                 ],
@@ -5594,6 +6053,7 @@
             },
             {
                 "name": "RC: Soul of Darkeater Midir",
+                "visibility_rules": ["boss"],
                 "sections": [
                     {
                         "name": "RC: Soul of Darkeater Midir",
@@ -5613,10 +6073,12 @@
                 "sections": [
                     {
                         "name": "RC: Soul of Slave Knight Gael",
+                        "visibility_rules": ["boss"],
                         "item_count": 1
                     },
                     {
                         "name": "RC: Blood of the Dark Souls",
+                        "visibility_rules": ["keyitem"],
                         "item_count": 1
                     }
                 ],
@@ -5625,6 +6087,74 @@
                         "map": "RC",
                         "x": 609,
                         "y": 1203
+                    }
+                ]
+            },
+            {
+                "name": "RC: Chloranthy Ring+3",
+                "visibility_rules": ["rings"],
+                "sections": [
+                    {
+                        "name": "RC: Chloranthy Ring+3",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "RC",
+                        "x": 622,
+                        "y": 866
+                    }
+                ]
+            },
+            {
+                "name": "RC: Covetous Gold Serpent Ring+3",
+                "visibility_rules": ["rings"],
+                "sections": [
+                    {
+                        "name": "RC: Covetous Gold Serpent Ring+3",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "RC",
+                        "x": 1014,
+                        "y": 312
+                    }
+                ]
+            },
+            {
+                "name": "RC: Ring of the Evil Eye+3",
+                "visibility_rules": ["rings"],
+                "sections": [
+                    {
+                        "name": "RC: Ring of the Evil Eye+3",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "RC",
+                        "x": 1200,
+                        "y": 1139
+                    }
+                ]
+            },
+            {
+                "name": "RC: Wolf Ring+3",
+                "visibility_rules": ["rings"],
+                "sections": [
+                    {
+                        "name": "RC: Wolf Ring+3",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "RC",
+                        "x": 857,
+                        "y": 78
                     }
                 ]
             }

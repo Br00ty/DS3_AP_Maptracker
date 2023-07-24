@@ -371,13 +371,13 @@
         "type": "toggle",
         "name": "Contraption Key",
         "codes": "contraptionkey",
-        "img": "images/items/contraption_key.png"
+        "img": "images/items/key_contraption.png"
     },
     {
         "type": "toggle",
         "name": "Small Envoy Banner",
         "codes": "envoybanner",
-        "img": "images/items/small_envoy_banner.png"
+        "img": "images/items/banner_envoy.png"
     },
     // NPC Event Triggers
     {
@@ -385,5 +385,69 @@
         "name": "Shira",
         "codes": "shira",
         "img": "images/items/shira.png"
+    },
+    // Settings {EXPERIMENTAL}
+    {
+        "type": "toggle",
+        "name": "Shuffle Weapons",
+        "codes": "weapons",
+        "img": "images/items/weapons.png",
+        "inherit_codes": false
+    },
+    {
+        "type": "toggle",
+        "name": "Shuffle Shields",
+        "codes": "shields",
+        "img": "images/items/shields.png",
+        "inherit_codes": false
+    },
+    {
+        "type": "toggle",
+        "name": "Shuffle Armors",
+        "codes": "armors",
+        "img": "images/items/armors.png",
+        "inherit_codes": false
+    },
+    {
+        "type": "toggle",
+        "name": "Shuffle Rings",
+        "codes": "rings",
+        "img": "images/items/rings.png",
+        "inherit_codes": false
+    },
+    {
+        "type": "toggle",
+        "name": "Shuffle Spells",
+        "codes": "spells",
+        "img": "images/items/spells.png",
+        "inherit_codes": false
+    },
+    {
+        "type": "toggle",
+        "name": "Shuffle NPCs",
+        "codes": "npcs",
+        "img": "images/items/npcs.png",
+        "inherit_codes": false
+    },
+    {
+        "type": "toggle",
+        "name": "Shuffle Miscellaneous",
+        "codes": "misc",
+        "img": "images/items/misc.png",
+        "inherit_codes": false
+    },
+    {
+        "type": "toggle",
+        "name": "Shuffle Key Items",
+        "codes": "keyitem",
+        "img": "images/items/banner_lothric.png",
+        "inherit_codes": false
+    },
+    {
+        "type": "toggle",
+        "name": "Shuffle Bosses",
+        "codes": "boss",
+        "img": "images/items/soul_of_aldrich.png",
+        "inherit_codes": false
     }
 ]

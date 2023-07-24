@@ -33,32 +33,69 @@
                         "item_size": 40,
                         "rows": [
                             [
-                            "towerkey",
-                            "cellkey",
-                            "jailbreaker",
-                            "jailring",
-                            "oldcell",
-                            "archives",
-                            "contraptionkey"
+                                "towerkey",
+                                "cellkey",
+                                "jailbreaker",
+                                "jailring",
+                                "oldcell",
+                                "archives",
+                                "contraptionkey"
+                            ]
                         ]
-                    ]
-                },
-                {
-                    "type": "itemgrid",
-                    "item_margin": "2,0",
-                    "h_alignment": "center",
-                    "item_size": 62,
-                    "rows": [
-                        [
-                            "abyss",
-                            "yhorm",
-                            "aldrich",
-                            "lothric"
+                    },
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "3,0",
+                        "h_alignment": "center",
+                        "item_size": 62,
+                        "rows": [
+                            [
+                                "abyss",
+                                "yhorm",
+                                "aldrich",
+                                "lothric"
+                            ]
                         ]
+                    }
+                ]
+            }
+        ]
+    },
+    "settings_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,2",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "2,0",
+                "h_alignment": "center",
+                "item_size": 62,
+                "rows": [
+                    [
+                        "weapons",
+                        "shields",
+                        "armors",
+                        "rings",
+                        "spells"
                     ]
-                }
-            ]
-        }
-    ]
-}
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "margin": "25,10",
+                "item_margin": "2,0",
+                "h_alignment": "center",
+                "item_size": 62,
+                "rows": [
+                    [
+                        "keyitem",
+                        "npcs",
+                        "boss",
+                        "misc"
+                    ]
+                ]
+            }
+        ]
+    }
 }

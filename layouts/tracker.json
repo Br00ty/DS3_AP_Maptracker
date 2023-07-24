@@ -1,215 +1,4 @@
 ﻿{
-  "tracker_default": {
-    "type": "container",
-    "background": "#000000",
-    "content": {
-      "type": "dock",
-      "dropshadow": true,
-      "content": [
-        {
-          "type": "dock",
-          "dock": "left",
-          "v_alignment": "stretch",
-          "content": [
-            {
-              "type": "group",
-              "header": "Items",
-              "dock": "top",
-              "content": {
-                "type": "layout",
-                "key": "shared_item_grid"
-              }
-            }
-          ]
-        },
-        {
-          "type": "tabbed",
-          "tabs": [
-            {
-              "title": "Firelink Shrine",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "FS"
-                ]
-              }
-            },
-            {
-              "title": "High Wall of Lothric",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "HWL"
-                ]
-              }
-            },
-            {
-              "title": "Undead Settlement",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "US"
-                ]
-              }
-            },
-            {
-              "title": "Road of Sacrifices",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "RS"
-                ]
-              }
-            },
-            {
-              "title": "Cathedral of the Deep",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "CD"
-                ]
-              }
-            },
-            {
-              "title": "Farron Keep",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "FK"
-                ]
-              }
-            },
-            {
-              "title": "Catacombs of Carthus",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "FK"
-                ]
-              }
-            },
-            {
-              "title": "Smouldering Lake",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "SL"
-                ]
-              }
-            },
-            {
-              "title": "Irithyll of the Boreal Valley",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "IBV"
-                ]
-              }
-            },
-            {
-              "title": "Anor Londo",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "AL"
-                ]
-              }
-            },
-            {
-              "title": "Irithyll Dungeon",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "ID"
-                ]
-              }
-            },
-            {
-              "title": "Profaned Capital",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "PC"
-                ]
-              }
-            },
-            {
-              "title": "Consumed King's Garden",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "CKG"
-                ]
-              }
-            },
-            {
-              "title": "Untended Graves",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "UG"
-                ]
-              }
-            },
-            {
-              "title": "Lothric Castle",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "LC"
-                ]
-              }
-            },
-            {
-              "title": "Grand Archives",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "GA"
-                ]
-              }
-            },
-            {
-              "title": "Archdragon Peak",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "AP"
-                ]
-              }
-            },
-            {
-              "title": "Painted World of Ariandel",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "PW"
-                ]
-              }
-            },
-            {
-              "title": "Dreg Heap",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "DH"
-                ]
-              }
-            },
-            {
-              "title": "The Ringed City",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "RC"
-                ]
-              }
-            }
-          ]
-        }
-      ]
-    }
-  },
   "tracker_horizontal": {
     "type": "container",
     "background": "#000000",
@@ -232,7 +21,19 @@
                 "v_alignment": "center",
                 "key": "shared_item_grid"
               }
-            }            
+            },
+            {
+              "type": "group",
+              "header": "Settings",
+              "dock": "left",
+              "margin": "0,0,3,0",
+              "content": {
+                "type": "layout",
+                "h_alignment": "center",
+                "v_alignment": "center",
+                "key": "settings_grid"
+              }
+            }             
           ]
         },
         {
