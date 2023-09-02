@@ -5110,7 +5110,7 @@
             {
                 "name": "PW: Follower Torch",
                 "access_rules": ["contraptionkey"],
-                "visibility_rules": ["weapons"],
+                "visibility_rules": ["shields"],
                 "sections": [
                     {
                         "name": "PW: Follower Torch",
@@ -5845,7 +5845,7 @@
             },
             {
                 "name": "RC: Church Guardian Shiv",
-                "visibility_rules": ["weapons"],
+                "visibility_rules": ["misc"],
                 "sections": [
                     {
                         "name": "RC: Church Guardian Shiv",
