@@ -864,7 +864,7 @@
             },
             {
                 "name": "US: Mirrah Set",
-                "visibility_rules": ["weapons"],
+                "visibility_rules": ["armors"],
                 "sections": [
                     {
                         "name": "US: Mirrah Vest",
@@ -1034,11 +1034,11 @@
                 ]
             },
             {
-                "name": "US: Blessed Red and White Shield",
+                "name": "US: Blessed Red and White Shield+1",
                 "visibility_rules": ["shields"],
                 "sections": [
                     {
-                        "name": "US: Blessed Red and White Shield",
+                        "name": "US: Blessed Red and White Shield+1",
                         "item_count": 1
                     }
                 ],
@@ -1996,7 +1996,7 @@
             },
             {
                 "name": "CD: Rosaria's Fingers Covenant",
-                "visibility_rules": ["weapons"],
+                "visibility_rules": ["misc"],
                 "sections": [
                     {
                         "name": "CD: Rosaria's Fingers Covenant",
@@ -2141,7 +2141,7 @@
             },
             {
                 "name": "FK: Wolf's Blood Swordgrass",
-                "visibility_rules": ["weapons"],
+                "visibility_rules": ["misc"],
                 "sections": [
                     {
                         "name": "FK: Wolf's Blood Swordgrass",
@@ -2282,7 +2282,7 @@
             },
             {
                 "name": "FK: Watchdogs of Farron Covenant",
-                "visibility_rules": ["weapons"],
+                "visibility_rules": ["misc"],
                 "sections": [
                     {
                         "name": "FK: Watchdogs of Farron Covenant",
@@ -2948,7 +2948,7 @@
             },
             {
                 "name": "IBV: Roster of Knights",
-                "visibility_rules": ["weapons"],
+                "visibility_rules": ["misc"],
                 "sections": [
                     {
                         "name": "IBV: Roster of Knights",
@@ -3232,7 +3232,7 @@
             },
             {
                 "name": "IBV: Aldrich Faithful Covenant",
-                "visibility_rules": ["weapons"],
+                "visibility_rules": ["misc"],
                 "sections": [
                     {
                         "name": "IBV: Aldrich Faithful Covenant",
@@ -4607,7 +4607,7 @@
             },
             {
                 "name": "GA: Crystal Scroll (Kill the Crystal Sage)",
-                "visibility_rules": ["spells"],
+                "visibility_rules": ["misc"],
                 "sections": [
                     {
                         "name": "GA: Crystal Scroll",
@@ -5248,14 +5248,15 @@
             {
                 "name": "PW: Gravetender Fight",
                 "access_rules": ["contraptionkey"],
-                "visibility_rules": ["weapons"],
                 "sections": [
                     {
                         "name": "PW: Valorheart",
+                        "visibility_rules": ["weapons"],
                         "item_count": 1
                     },
                     {
                         "name": "PW: Champions Bones",
+                        "visibility_rules": ["misc"],
                         "item_count": 1
                     }
                 ],
@@ -5333,7 +5334,7 @@
         "children": [
             {
                 "name": "DH: Loincloth",
-                "visibility_rules": ["weapons"],
+                "visibility_rules": ["armors"],
                 "sections": [
                     {
                         "name": "DH: Loincloth",
@@ -6014,7 +6015,7 @@
             },
             {
                 "name": "RC: Ritual Spear Fragment",
-                "visibility_rules": ["weapons"],
+                "visibility_rules": ["misc"],
                 "sections": [
                     {
                         "name": "RC: Ritual Spear Fragment",
@@ -6039,7 +6040,7 @@
                     },
                     {
                         "name": "RC: Violet Wrappings",
-                        "visibility_rules": ["weapons"],
+                        "visibility_rules": ["armors"],
                         "item_count": 1
                     }
                 ],
