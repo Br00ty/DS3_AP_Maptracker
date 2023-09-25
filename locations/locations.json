@@ -3819,12 +3819,12 @@
                 "access_rules": ["[storm]"],
                 "sections": [
                     {
-                        "name": "Cinders of a Lord - Yhorm the Giant",
+                        "name": "PC: Cinders of a Lord - Yhorm the Giant",
                         "visibility_rules": ["keyitem"],
                         "item_count": 1
                     },
                     {
-                        "name": "Soul of Yhorm the Giant",
+                        "name": "PC: Soul of Yhorm the Giant",
                         "visibility_rules": ["boss"],
                         "hosted_item": "yhorm_s",
                         "item_count": 1
@@ -4352,23 +4352,6 @@
                 "sections": [
                     {
                         "name": "LC: Soul of Dragonslayer Armour",
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "LC",
-                        "x": 608,
-                        "y": 968
-                    }
-                ]
-            },
-            {
-                "name": "LC: Irithyll Rapier",
-                "visibility_rules": ["weapons"],
-                "sections": [
-                    {
-                        "name": "LC: Irithyll Rapier",
                         "item_count": 1
                     }
                 ],
@@ -5631,7 +5614,7 @@
                 "visibility_rules": ["rings"],
                 "sections": [
                     {
-                        "name": "RC: Ring of Steel Protection+3",
+                        "name": "DH: Ring of Steel Protection+3",
                         "item_count": 1
                     }
                 ],

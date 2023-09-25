@@ -386,7 +386,7 @@
         "codes": "shira",
         "img": "images/items/shira.png"
     },
-    // Settings {EXPERIMENTAL}
+    // Settings
     {
         "type": "toggle",
         "name": "Shuffle Weapons",

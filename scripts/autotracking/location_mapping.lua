@@ -418,7 +418,7 @@ LOCATION_MAPPING = {
     [102015] = {"@The Dreg Heap/DH: Demon Prince Arena/DH: Small Envoy Banner"},
     [102016] = {"@The Dreg Heap/DH: Ring of Favor+3/DH: Ring of Favor+3"},
     [102017] = {"@The Dreg Heap/DH: Covetous Silver Serpent Ring+3/DH: Covetous Silver Serpent Ring+3"},
-    [102018] = {"@The Ringed City/RC: Ring of Steel Protection+3/RC: Ring of Steel Protection+3"},
+    [102018] = {"@The Dreg Heap/DH: Ring of Steel Protection+3/DH: Ring of Steel Protection+3"},
 
     [102100] = {"@The Ringed City/RC: Ruin Set/RC: Ruin Sentinel Helm"},
     [102101] = {"@The Ringed City/RC: Ruin Set/RC: Ruin Sentinel Armor"},

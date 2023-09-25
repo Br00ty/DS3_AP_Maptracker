@@ -1,5 +1,7 @@
 -- Configuration --------------------------------------
-AUTOTRACKER_ENABLE_DEBUG_LOGGING = true and ENABLE_DEBUG_LOG
+AUTOTRACKER_ENABLE_ITEM_TRACKING = true
+AUTOTRACKER_ENABLE_LOCATION_TRACKING = true
+AUTOTRACKER_ENABLE_DEBUG_LOGGING = false and ENABLE_DEBUG_LOG
 AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP = true and AUTOTRACKER_ENABLE_DEBUG_LOGGING
 AUTOTRACKER_ENABLE_DEBUG_LOGGING_SNES = true and AUTOTRACKER_ENABLE_DEBUG_LOGGING
 -------------------------------------------------------
@@ -18,4 +20,3 @@ print("")
 
 -- loads the AP autotracking code
 ScriptHost:LoadScript("scripts/autotracking/archipelago.lua")
-

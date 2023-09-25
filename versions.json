@@ -1,6 +1,17 @@
 {
     "versions": [
         {
+            "package_version": "4.1.1",
+            "download_url": "https://github.com/Br00ty/DS3_AP_Maptracker/releases/download/v4.1.1/ds3_br00ty.zip",
+            "sha256": "5EC785D04FB57234FCAA2F9AA6C302CD328A682AB20F554C156C36C7B1CA6F46",
+            "changelog": [
+                "added settings auto-tracking",
+                "fixed 'LC: Soul of Dragonslayer Armour' location showing 'LC: Irithyll Rapier' instead",
+                "moved 'Ring of Steel Protection' to Dreg Heap",
+                "fixed Yhorm's soul and cinder not being autotracked"
+            ]
+        },
+        {
             "package_version": "4.1",
             "download_url": "https://github.com/Br00ty/DS3_AP_Maptracker/releases/download/v4.1/ds3_br00ty.zip",
             "sha256": "6DB29250B25B435CB780A39F3734CBAF3488CB1C28AFC11A77FD2C65589F49C9",
