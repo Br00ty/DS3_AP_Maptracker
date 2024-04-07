@@ -21,3 +21,5 @@ Check out PopTrackers Documentation on packs [here](https://github.com/black-sli
 Still having trouble realizing your pack and looking for help or just want more information about everything PopTracker? Check out the ['Unofficial' PopTracker Discord Server](https://discord.com/invite/gwThqMCPgK)!
 
 ## License
+
+If youre gonna use this tracker as a base for a new DS3 tracker, please have that repo be a Fork of this, and give credit.
